@@ -1,0 +1,6 @@
+{
+  "name": "Com Máquinas - Peças para Máquinas Pesadas e Tratores",
+  "description": "Distribuidora e comércio de peças de reposição para máquinas pesadas, tratores, escavadeiras, pás carregadeiras e equipamentos da linha amarela e agrícola.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

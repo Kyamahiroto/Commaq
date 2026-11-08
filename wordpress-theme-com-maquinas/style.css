@@ -1,0 +1,19 @@
+<?php
+/**
+ * Theme Name: Com Máquinas - Peças Pesadas & Tratores
+ * Theme URI: https://commaquinas.com.br
+ * Author: Com Máquinas
+ * Author URI: https://commaquinas.com.br
+ * Description: Tema profissional para distribuidora de peças de reposição para máquinas pesadas, tratores e linha amarela. Compatível com WooCommerce e gerador de cotações WhatsApp.
+ * Version: 1.0.0
+ * Requires at least: 6.0
+ * Tested up to: 6.7
+ * Requires PHP: 7.4
+ * License: GNU General Public License v2 or later
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ * Text Domain: com-maquinas
+ */
+
+if (!defined('ABSPATH')) {
+    exit; // Exit if accessed directly
+}

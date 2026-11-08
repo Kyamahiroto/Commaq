@@ -1,0 +1,543 @@
+ID,Tipo,ID Pai,Nome,Slug,Status,Categoria(s),SKU,Preço (R$),Preço Regular (R$),Preço Promoção (R$),Estoque,Status Estoque,Gerenciar Estoque,Peso (kg),Comprimento (cm),Largura (cm),Altura (cm),Virtual,Downloadable,Avaliação Média,Nº Avaliações,Total de Vendas,Descrição Curta,Data de Publicação
+4566,Produto,,ROLAMENTO CONICO EIXO M25-30,rolamento-conico-eixo-m25-30,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO CONICO EIXO M25-30,2020-11-12 15:12:17
+4568,Produto,,CHAVE FRENTE RE COMPLETA COM SISTEMA DE ILUMINAÇÃO  MAXIMAL,chave-frente-re-completa-com-sistema-de-iluminacao-maximal,publish,SISTEMA ELÉTRICO,,,,,,,,,,,,,,,,,CHAVE FRENTE RE COMPLETA COM SISTEMA DE ILUMINAÇÃO  MAXIMAL,2020-11-12 15:12:21
+4570,Produto,,DISCO TRANSM TCM PEIPER,disco-transm-tcm-peiper,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,DISCO TRANSM TCM PEIPER,2020-11-12 15:12:24
+4575,Produto,,COLA 3M,cola-3m,publish,Uncategorized,,,,,,,,,,,,,,,,,COLA 3M,2020-11-12 15:14:16
+4579,Produto,,ANEL SEGMENTO 110MM FECHADO DO TORQ,anel-segmento-110mm-fechado-do-torq,publish,USO GERAL,,,,,,,,,,,,,,,,,ANEL SEGMENTO 110MM FECHADO DO TORQ,2020-11-12 15:15:32
+4582,Produto,,SOLENOIDE DA TRANSMISSAO REVERSAO FRENTE/RE - 12V,solenoide-da-transmissao-reversao-frente-re-12v,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,SOLENOIDE DA TRANSMISSAO REVERSAO FRENTE/RE - 12V,2020-11-12 15:16:12
+4584,Produto,,CABO DO FREIO DE MÃO LD (CABO MAIOR),cabo-do-freio-de-mao-ld-cabo-maior,publish,SISTEMA DE FREIO,,,,,,,,,,,,,,,,,CABO DO FREIO DE MÃO LD (CABO MAIOR),2020-11-12 15:16:15
+4586,Produto,,CABO DO FREIO DE MAO LE (CABO MENOR),cabo-do-freio-de-mao-le-cabo-menor,publish,SISTEMA DE FREIO,,,,,,,,,,,,,,,,,CABO DO FREIO DE MAO LE (CABO MENOR),2020-11-12 15:16:17
+4588,Produto,,"CILINDRO MESTRE COM COPINHO EMP. MAXIMAL , HANGCHA, HELI",cilindro-mestre-com-copinho-emp-maximal-hangcha-heli,publish,SISTEMA DE FREIO,,,,,,,,,,,,,,,,,"CILINDRO MESTRE COM COPINHO EMP. MAXIMAL , HANGCHA, HELI",2020-11-12 15:16:20
+4590,Produto,,PINO PONTA DA LANCA H XGMA 932,pino-ponta-da-lanca-h-xgma-932,publish,Uncategorized,,,,,,,,,,,,,,,,,PINO PONTA DA LANCA H XGMA 932,2020-11-12 15:16:23
+4592,Produto,,PINO 932,pino-932,publish,Uncategorized,,,,,,,,,,,,,,,,,PINO 932,2020-11-12 15:16:25
+4595,Produto,,PINO CIL DIRECAO 932III,pino-cil-direcao-932iii,publish,USO GERAL,,,,,,,,,,,,,,,,,PINO CIL DIRECAO 932III,2020-11-12 15:17:01
+4598,Produto,,CARDAN DIANTEIRO  C/ ROLAMENTO MANCAL 932III,cardan-dianteiro-c-rolamento-mancal-932iii,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,CARDAN DIANTEIRO  C/ ROLAMENTO MANCAL 932III,2020-11-12 15:17:42
+4602,Produto,,RETENTOR BOMBA TRANSMISSAO  932,retentor-bomba-transmissao-932,publish,RETENTORES,,,,,,,,,,,,,,,,,RETENTOR BOMBA TRANSMISSAO  932,2020-11-12 15:19:00
+4609,Produto,,PINO 932,pino-932-2,publish,USO GERAL,,,,,,,,,,,,,,,,,PINO 932,2020-11-12 15:21:58
+4613,Produto,,ROLAMENTO 932,rolamento-932,publish,Uncategorized,,,,,,,,,,,,,,,,,ROLAMENTO 932,2020-11-12 15:23:26
+4615,Produto,,TUBO 932,tubo-932,publish,SISTEMA HIDRÁULICO,,,,,,,,,,,,,,,,,TUBO 932,2020-11-12 15:23:32
+4617,Produto,,ROLAMENTO 932,rolamento-932-2,publish,Uncategorized,,,,,,,,,,,,,,,,,ROLAMENTO 932,2020-11-12 15:23:36
+4620,Produto,,PEDAL ACELERADOR XGMA932II,pedal-acelerador-xgma932ii,publish,USO GERAL,,,,,,,,,,,,,,,,,PEDAL ACELERADOR XGMA932II,2020-11-12 15:24:14
+4624,Produto,,FLANGE 932,flange-932,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,FLANGE 932,2020-11-12 15:25:45
+4628,Produto,,CARDAN TRASEIRO XGMA 932II,cardan-traseiro-xgma-932ii,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,CARDAN TRASEIRO XGMA 932II,2020-11-12 15:27:09
+4632,Produto,,TURBINA XGMA 932 CONJ,turbina-xgma-932-conj,publish,MOTOR,,,,,,,,,,,,,,,,,TURBINA XGMA 932 CONJ,2020-11-12 15:28:23
+4637,Produto,,BOMBA DE DIRECAO E FREIO CHAVETADA  XG932,bomba-de-direcao-e-freio-chavetada-xg932,publish,FREIOS,,,,,,,,,,,,,,,,,BOMBA DE DIRECAO E FREIO CHAVETADA  XG932,2020-11-12 15:30:30
+4643,Produto,,BUCHA 932,bucha-932,publish,USO GERAL,,,,,,,,,,,,,,,,,BUCHA 932,2020-11-12 15:32:59
+4650,Produto,,SUPORTE DA VENTOINHA  DG938,suporte-da-ventoinha-dg938,publish,USO GERAL,,,,,,,,,,,,,,,,,SUPORTE DA VENTOINHA  DG938,2020-11-12 15:35:54
+4653,Produto,,FILTRO DE COMBUSTIVEL,filtro-de-combustivel,publish,FILTROS,,,,,,,,,,,,,,,,,FILTRO DE COMBUSTIVEL,2020-11-12 15:36:27
+4655,Produto,,FILTRO DE COMB FF5052,filtro-de-comb-ff5052,publish,FILTROS,,,,,,,,,,,,,,,,,FILTRO DE COMB FF5052,2020-11-12 15:36:30
+4658,Produto,,SUPORTE DA PLANETARIA 932,suporte-da-planetaria-932,publish,USO GERAL,,,,,,,,,,,,,,,,,SUPORTE DA PLANETARIA 932,2020-11-12 15:37:04
+4661,Produto,,POLIA AMORTECEDOR DE VIBRACAO XG 31802,polia-amortecedor-de-vibracao-xg-31802,publish,MOTOR,,,,,,,,,,,,,,,,,POLIA AMORTECEDOR DE VIBRACAO XG 31802,2020-11-12 15:37:42
+4666,Produto,,TUBO 932,tubo-932-2,publish,SISTEMA HIDRÁULICO,,,,,,,,,,,,,,,,,TUBO 932,2020-11-12 15:39:32
+4668,Produto,,SUPORTE DO ESTADOR 932,suporte-do-estador-932,publish,USO GERAL,,,,,,,,,,,,,,,,,SUPORTE DO ESTADOR 932,2020-11-12 15:39:35
+4670,Produto,,VALVULA DESCARGA FREIO XGMA 932III,valvula-descarga-freio-xgma-932iii,publish,FREIOS,,,,,,,,,,,,,,,,,VALVULA DESCARGA FREIO XGMA 932III,2020-11-12 15:39:38
+4672,Produto,,CALCO DA PLACA DO TORK,calco-da-placa-do-tork,publish,JUNTAS E CALÇOS,,,,,,,,,,,,,,,,,CALCO DA PLACA DO TORK,2020-11-12 15:39:42
+4674,Produto,,EIXO 932,eixo-932,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,EIXO 932,2020-11-12 15:39:45
+4677,Produto,,ROLAMENTO,rolamento,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO,2020-11-12 15:40:20
+4680,Produto,,ROTULA ART DGONG 938 (VER OBSERCAÇAO),rotula-art-dgong-938-ver-obsercacao,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROTULA ART DGONG 938 (VER OBSERCAÇAO),2020-11-12 15:41:09
+4688,Produto,,TUBO 932,tubo-932-3,publish,SISTEMA HIDRÁULICO,,,,,,,,,,,,,,,,,TUBO 932,2020-11-12 15:44:41
+4690,Produto,,TUBO PISTAO TOMBAMENTO 932,tubo-pistao-tombamento-932,publish,USO GERAL,,,,,,,,,,,,,,,,,TUBO PISTAO TOMBAMENTO 932,2020-11-12 15:44:46
+4692,Produto,,TUBO  XGMA 932,tubo-xgma-932,publish,SISTEMA HIDRÁULICO,,,,,,,,,,,,,,,,,TUBO  XGMA 932,2020-11-12 15:44:55
+4694,Produto,,TUBO 932,tubo-932-4,publish,SISTEMA HIDRÁULICO,,,,,,,,,,,,,,,,,TUBO 932,2020-11-12 15:45:03
+4696,Produto,,BLOCO VALVULA XGMA 932,bloco-valvula-xgma-932,publish,MOTOR,,,,,,,,,,,,,,,,,BLOCO VALVULA XGMA 932,2020-11-12 15:45:08
+4699,Produto,,TUBO BOMBA HIDRAULICA  XGMA 932,tubo-bomba-hidraulica-xgma-932,publish,SISTEMA HIDRÁULICO,,,,,,,,,,,,,,,,,TUBO BOMBA HIDRAULICA  XGMA 932,2020-11-12 15:45:49
+4703,Produto,,PASTILHA DE FREIO QUADRADA,pastilha-de-freio-quadrada,publish,FREIOS,,,,,,,,,,,,,,,,,PASTILHA DE FREIO QUADRADA,2020-11-12 15:47:05
+4706,Produto,,CANO DE RETORNO OLEO,cano-de-retorno-oleo,publish,MOTOR,,,,,,,,,,,,,,,,,CANO DE RETORNO OLEO,2020-11-12 15:47:40
+4708,Produto,,CANO SAIDA DO OLEO,cano-saida-do-oleo,publish,MOTOR,,,,,,,,,,,,,,,,,CANO SAIDA DO OLEO,2020-11-12 15:47:43
+4710,Produto,,CANO DE RETORNA DE OLEO,cano-de-retorna-de-oleo,publish,MOTOR,,,,,,,,,,,,,,,,,CANO DE RETORNA DE OLEO,2020-11-12 15:47:46
+4717,Produto,,VALVULA DE ESCAPE 39MM  XGMA T20,valvula-de-escape-39mm-xgma-t20,publish,MOTOR,,,,,,,,,,,,,,,,,VALVULA DE ESCAPE 39MM  XGMA T20,2020-11-12 15:50:31
+4719,Produto,,JUNTA COLETOR ESCAPE YUCHAI,junta-coletor-escape-yuchai,publish,USO GERAL,,,,,,,,,,,,,,,,,JUNTA COLETOR ESCAPE YUCHAI,2020-11-12 15:50:35
+4722,Produto,,PINO DO PISTAO 40X85X19,pino-do-pistao-40x85x19,publish,USO GERAL,,,,,,,,,,,,,,,,,PINO DO PISTAO 40X85X19,2020-11-12 15:51:24
+4724,Produto,,VALVULA ADMISSAO 47MM XGMA T20 YUCHAI,valvula-admissao-47mm-xgma-t20-yuchai,publish,MOTOR,,,,,,,,,,,,,,,,,VALVULA ADMISSAO 47MM XGMA T20 YUCHAI,2020-11-12 15:51:28
+4727,Produto,,PRE FILTRO DE AR XGMA 932II,pre-filtro-de-ar-xgma-932ii,publish,FILTROS,,,,,,,,,,,,,,,,,PRE FILTRO DE AR XGMA 932II,2020-11-12 15:52:02
+4731,Produto,,FILTRO LUB. XINCHAI 498 JX85100C,filtro-lub-xinchai-498-jx85100c,publish,MOTOR,,,,,,,,,,,,,,,,,FILTRO LUB. XINCHAI 498 JX85100C,2020-11-12 15:53:08
+4736,Produto,,CAPA HM804810,capa-hm804810,publish,USO GERAL,,,,,,,,,,,,,,,,,CAPA HM804810,2020-11-12 15:54:50
+4738,Produto,,AMORTECEDOR,amortecedor,publish,USO GERAL,,,,,,,,,,,,,,,,,AMORTECEDOR,2020-11-12 15:54:59
+4740,Produto,,FILTRO SEPARADOR DE AGUA,filtro-separador-de-agua,publish,FILTROS,,,,,,,,,,,,,,,,,FILTRO SEPARADOR DE AGUA,2020-11-12 15:55:01
+4742,Produto,,BOMBA ALIMENTADORA ELETRICA YANMAR,bomba-alimentadora-eletrica-yanmar,publish,SISTEMA ELÉTRICO,,,,,,,,,,,,,,,,,BOMBA ALIMENTADORA ELETRICA YANMAR,2020-11-12 15:55:03
+4744,Produto,,BASE FILTRO,base-filtro,publish,FILTROS,,,,,,,,,,,,,,,,,BASE FILTRO,2020-11-12 15:55:06
+4746,Produto,,ROLAMENTO,rolamento-2,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO,2020-11-12 15:55:19
+4748,Produto,,FILTRO HIDRAULICO XGMA 31802,filtro-hidraulico-xgma-31802,publish,FILTROS,,,,,,,,,,,,,,,,,FILTRO HIDRAULICO XGMA 31802,2020-11-12 15:55:26
+4750,Produto,,ESTATOR TRASM 932III,estator-trasm-932iii,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,ESTATOR TRASM 932III,2020-11-12 15:55:37
+4752,Produto,,PLACA,placa,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,PLACA,2020-11-12 15:55:40
+4754,Produto,,ROLAMENTO,rolamento-3,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO,2020-11-12 15:56:10
+4756,Produto,,FLEXIVEL DE FREIO 932III,flexivel-de-freio-932iii,publish,FREIOS,,,,,,,,,,,,,,,,,FLEXIVEL DE FREIO 932III,2020-11-12 15:56:13
+4758,Produto,,CANO DE FREIO DIANTEIRO XGMA 932III,cano-de-freio-dianteiro-xgma-932iii,publish,FREIOS,,,,,,,,,,,,,,,,,CANO DE FREIO DIANTEIRO XGMA 932III,2020-11-12 15:56:16
+4760,Produto,,ROLAMENTO,rolamento-4,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO,2020-11-12 15:56:29
+4762,Produto,,FLEXIVEL FREIO DIANT DG938 DEGONG,flexivel-freio-diant-dg938-degong,publish,FREIOS,,,,,,,,,,,,,,,,,FLEXIVEL FREIO DIANT DG938 DEGONG,2020-11-12 15:56:36
+4764,Produto,,SOLENOIDE BOMBA INJETORA,solenoide-bomba-injetora,publish,MOTOR,,,,,,,,,,,,,,,,,SOLENOIDE BOMBA INJETORA,2020-11-12 15:56:38
+4766,Produto,,TUBO FREIO TRAS DIR/ESQ IGUAIS,tubo-freio-tras-dir-esq-iguais,publish,FREIOS,,,,,,,,,,,,,,,,,TUBO FREIO TRAS DIR/ESQ IGUAIS,2020-11-12 15:56:46
+4768,Produto,,COXIM MOTOR TRASEIRO DG938 M20MM FURO PARAFUSO EMCIMA 2 FURO,coxim-motor-traseiro-dg938-m20mm-furo-parafuso-emcima-2-furo,publish,"PORCAS E PARAFUSOS | ARRUELAS, PORCAS E PARAFUSOS",,,,,,,,,,,,,,,,,COXIM MOTOR TRASEIRO DG938 M20MM FURO PARAFUSO EMCIMA 2 FURO,2020-11-12 15:56:50
+4770,Produto,,BUCHA ESPAÇADORA,bucha-espacadora,publish,USO GERAL,,,,,,,,,,,,,,,,,BUCHA ESPAÇADORA,2020-11-12 15:56:52
+4772,Produto,,IMPULSOR DG938,impulsor-dg938,publish,USO GERAL,,,,,,,,,,,,,,,,,IMPULSOR DG938,2020-11-12 15:57:03
+4774,Produto,,ROLAMENTO,rolamento-5,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO,2020-11-12 15:57:16
+4776,Produto,,ROLAMENTO,rolamento-6,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO,2020-11-12 15:57:29
+4778,Produto,,ANEL 130X3.1,anel-130x3-1,publish,USO GERAL,,,,,,,,,,,,,,,,,ANEL 130X3.1,2020-11-12 15:57:30
+4780,Produto,,ANEL TEFLON CONVERSOR DEGONG 80X2.4,anel-teflon-conversor-degong-80x2-4,publish,USO GERAL,,,,,,,,,,,,,,,,,ANEL TEFLON CONVERSOR DEGONG 80X2.4,2020-11-12 15:57:36
+4782,Produto,,ENGRENAGEM CONVERSOR DG-938 27 DENTE,engrenagem-conversor-dg-938-27-dente,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,ENGRENAGEM CONVERSOR DG-938 27 DENTE,2020-11-12 16:13:15
+4784,Produto,,EIXO,eixo,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,EIXO,2020-11-12 16:13:18
+4786,Produto,,ANEL ELASTICO 90,anel-elastico-90,publish,USO GERAL,,,,,,,,,,,,,,,,,ANEL ELASTICO 90,2020-11-12 16:13:20
+4788,Produto,,ARRUELA,arruela,publish,"PORCAS E PARAFUSOS | ARRUELAS, PORCAS E PARAFUSOS",,,,,,,,,,,,,,,,,ARRUELA,2020-11-12 16:13:23
+4790,Produto,,EIXO TRANSM,eixo-transm,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,EIXO TRANSM,2020-11-12 16:13:25
+4792,Produto,,VALVULA REDUTORA TORQ,valvula-redutora-torq,publish,MOTOR,,,,,,,,,,,,,,,,,VALVULA REDUTORA TORQ,2020-11-12 16:13:29
+4794,Produto,,JUNTA VALVULA CONVERSOR,junta-valvula-conversor,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,JUNTA VALVULA CONVERSOR,2020-11-12 16:13:31
+4796,Produto,,MANCAL,mancal,publish,JUNTAS E CALÇOS,,,,,,,,,,,,,,,,,MANCAL,2020-11-12 16:13:33
+4798,Produto,,CALCO,calco,publish,JUNTAS E CALÇOS,,,,,,,,,,,,,,,,,CALCO,2020-11-12 16:13:35
+4800,Produto,,COROA E PINHAO TRASEIRA 932III  9X40,coroa-e-pinhao-traseira-932iii-9x40,publish,DIFERENCIAL,,,,,,,,,,,,,,,,,COROA E PINHAO TRASEIRA 932III  9X40,2020-11-12 16:13:46
+4802,Produto,,ROLAMENTO PONTA PINHAO XG932III,rolamento-ponta-pinhao-xg932iii,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO PONTA PINHAO XG932III,2020-11-12 16:13:56
+4804,Produto,,BUCHA,bucha,publish,USO GERAL,,,,,,,,,,,,,,,,,BUCHA,2020-11-12 16:13:58
+4806,Produto,,FECHADURA DA PORTA DG938,fechadura-da-porta-dg938,publish,USO GERAL,,,,,,,,,,,,,,,,,FECHADURA DA PORTA DG938,2020-11-12 16:14:10
+4808,Produto,,VALVULA ADMISSÃO,valvula-admissao,publish,MOTOR,,,,,,,,,,,,,,,,,VALVULA ADMISSÃO,2020-11-12 16:14:11
+4810,Produto,,VALVULA ADMISSAO YANMAR 4TNV94,valvula-admissao-yanmar-4tnv94,publish,MOTOR,,,,,,,,,,,,,,,,,VALVULA ADMISSAO YANMAR 4TNV94,2020-11-12 16:14:13
+4812,Produto,,ROLAMENTO SUPERIOR DO CARRINHO DA TORRE   ( USE 980811N-00),rolamento-superior-do-carrinho-da-torre-use-980811n-00,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO SUPERIOR DO CARRINHO DA TORRE   ( USE 980811N-00),2020-11-12 16:14:15
+4814,Produto,,ROLAMENTO  PINHAO PESCOÇO XGMA 932III,rolamento-pinhao-pescoco-xgma-932iii,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO  PINHAO PESCOÇO XGMA 932III,2020-11-12 16:14:28
+4816,Produto,,ANEL TRAVA,anel-trava,publish,USO GERAL,,,,,,,,,,,,,,,,,ANEL TRAVA,2020-11-12 16:14:30
+4819,Produto,,PINO PLANETARIA 932III,pino-planetaria-932iii,publish,USO GERAL,,,,,,,,,,,,,,,,,PINO PLANETARIA 932III,2020-11-12 16:15:09
+4821,Produto,,PINO BALANCA XGMA  932III,pino-balanca-xgma-932iii,publish,USO GERAL,,,,,,,,,,,,,,,,,PINO BALANCA XGMA  932III,2020-11-12 16:15:12
+4824,Produto,,CANO DE FREIO TRASEIRO  XGMA 932III,cano-de-freio-traseiro-xgma-932iii,publish,FREIOS,,,,,,,,,,,,,,,,,CANO DE FREIO TRASEIRO  XGMA 932III,2020-11-12 16:15:48
+4826,Produto,,ROLAMENTO,rolamento-7,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO,2020-11-12 16:15:57
+4834,Produto,,ROLAMENTO,rolamento-8,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO,2020-11-12 16:19:47
+4847,Produto,,ROLETES,roletes,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLETES,2020-11-12 16:26:35
+4849,Produto,,ROLAMENTO,rolamento-9,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO,2020-11-12 16:26:39
+4854,Produto,,ENGRENAGEM,engrenagem,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,ENGRENAGEM,2020-11-12 16:28:33
+4860,Produto,,DESLIZANTE DO MANCAL PE DA TORRE ( MEIA LUA ) MAXIMAL,deslizante-do-mancal-pe-da-torre-meia-lua-maximal,publish,USO GERAL,,,,,,,,,,,,,,,,,DESLIZANTE DO MANCAL PE DA TORRE ( MEIA LUA ) MAXIMAL,2020-11-12 16:31:02
+4865,Produto,,FAROL C/ SETA,farol-c-seta,publish,SISTEMA ELÉTRICO,,,,,,,,,,,,,,,,,FAROL C/ SETA,2020-11-12 16:32:52
+4867,Produto,,CRUZETA PATROL CHANGLIN PY165,cruzeta-patrol-changlin-py165,publish,DIFERENCIAL,,,,,,,,,,,,,,,,,CRUZETA PATROL CHANGLIN PY165,2020-11-12 16:32:55
+4869,Produto,,BUCHA,bucha-2,publish,USO GERAL,,,,,,,,,,,,,,,,,BUCHA,2020-11-12 16:33:03
+4873,Produto,,RETENTOR TANDEN PY165H,retentor-tanden-py165h,publish,RETENTORES,,,,,,,,,,,,,,,,,RETENTOR TANDEN PY165H,2020-11-12 16:34:17
+4883,Produto,,PINO 835,pino-835,publish,USO GERAL,,,,,,,,,,,,,,,,,PINO 835,2020-11-12 16:39:24
+4885,Produto,,PINO 835,pino-835-2,publish,USO GERAL,,,,,,,,,,,,,,,,,PINO 835,2020-11-12 16:39:43
+4888,Produto,,BUCHA DA ART ZL30H,bucha-da-art-zl30h,publish,USO GERAL,,,,,,,,,,,,,,,,,BUCHA DA ART ZL30H,2020-11-12 16:40:19
+4890,Produto,,PINO DA ART ZL30H,pino-da-art-zl30h,publish,USO GERAL,,,,,,,,,,,,,,,,,PINO DA ART ZL30H,2020-11-12 16:40:22
+4892,Produto,,BUCHA ART ZL30H,bucha-art-zl30h,publish,USO GERAL,,,,,,,,,,,,,,,,,BUCHA ART ZL30H,2020-11-12 16:40:25
+4896,Produto,,PINO DA ART ZL30H,pino-da-art-zl30h-2,publish,USO GERAL,,,,,,,,,,,,,,,,,PINO DA ART ZL30H,2020-11-12 16:41:41
+4899,Produto,,VEDADOR,vedador,publish,RETENTORES,,,,,,,,,,,,,,,,,VEDADOR,2020-11-12 16:42:36
+4914,Produto,,DISCO PACOTE 937H,disco-pacote-937h,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,DISCO PACOTE 937H,2020-11-12 16:50:44
+4918,Produto,,ROLAMENTO,rolamento-10,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO,2020-11-12 16:52:06
+4920,Produto,,ARRUELA MEIA LUA BALANCA CHANGLIN 937H,arruela-meia-lua-balanca-changlin-937h,publish,"PORCAS E PARAFUSOS | ARRUELAS, PORCAS E PARAFUSOS",,,,,,,,,,,,,,,,,ARRUELA MEIA LUA BALANCA CHANGLIN 937H,2020-11-12 16:52:24
+4924,Produto,,JG BRONZINA MANCAL STD YUCHAI,jg-bronzina-mancal-std-yuchai,publish,JUNTAS E CALÇOS,,,,,,,,,,,,,,,,,JG BRONZINA MANCAL STD YUCHAI,2020-11-12 16:53:47
+4927,Produto,,FILTRO COMBUSTIVEL MOTOR XINCHAI,filtro-combustivel-motor-xinchai,publish,FILTROS,,,,,,,,,,,,,,,,,FILTRO COMBUSTIVEL MOTOR XINCHAI,2020-11-12 16:54:23
+4941,Produto,,FLANGE C/ RESSALTO 16 ESTRIA (GRANDE),flange-c-ressalto-16-estria-grande,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,FLANGE C/ RESSALTO 16 ESTRIA (GRANDE),2020-11-12 17:01:52
+4943,Produto,,LUVA,luva,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,LUVA,2020-11-12 17:02:00
+4945,Produto,,TAMPA  TRANSM,tampa-transm,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,TAMPA  TRANSM,2020-11-12 17:02:09
+4947,Produto,,EIXO FORQUILHA,eixo-forquilha,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,EIXO FORQUILHA,2020-11-12 17:02:16
+4949,Produto,,SUPORTE DO GARFO DA TRANSM,suporte-do-garfo-da-transm,publish,USO GERAL,,,,,,,,,,,,,,,,,SUPORTE DO GARFO DA TRANSM,2020-11-12 17:02:23
+4951,Produto,,SELO TRANSMISSAO DG938,selo-transmissao-dg938,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,SELO TRANSMISSAO DG938,2020-11-12 17:02:37
+4953,Produto,,DISCO PACOTE DG938,disco-pacote-dg938,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,DISCO PACOTE DG938,2020-11-12 17:02:44
+4955,Produto,,PISTAO PACOTE,pistao-pacote,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,PISTAO PACOTE,2020-11-12 17:02:51
+4957,Produto,,TAMBOR MARCHA CJ,tambor-marcha-cj,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,TAMBOR MARCHA CJ,2020-11-12 17:02:58
+4959,Produto,,BUCHA ESPACADORA D GONG 938,bucha-espacadora-d-gong-938,publish,USO GERAL,,,,,,,,,,,,,,,,,BUCHA ESPACADORA D GONG 938,2020-11-12 17:03:06
+4961,Produto,,FREIO ESTACIONARIO C/ LONA DEGONG,freio-estacionario-c-lona-degong,publish,FREIOS,,,,,,,,,,,,,,,,,FREIO ESTACIONARIO C/ LONA DEGONG,2020-11-12 17:03:13
+4963,Produto,,CJ FILTRO DO TORK AO RADIADOR OLEO,cj-filtro-do-tork-ao-radiador-oleo,publish,FILTROS,,,,,,,,,,,,,,,,,CJ FILTRO DO TORK AO RADIADOR OLEO,2020-11-12 17:03:27
+4965,Produto,,VALVULA TERMOSTATICA 6BT5.9,valvula-termostatica-6bt5-9,publish,MOTOR,,,,,,,,,,,,,,,,,VALVULA TERMOSTATICA 6BT5.9,2020-11-12 17:03:36
+4967,Produto,,FILTRO LUBRIFICANTE DG958,filtro-lubrificante-dg958,publish,FILTROS,,,,,,,,,,,,,,,,,FILTRO LUBRIFICANTE DG958,2020-11-12 17:03:43
+4969,Produto,,BOMBA DIREÇAO E TRANSMISSAO DEGONG 938,bomba-direcao-e-transmissao-degong-938,publish,SISTEMA HIDRÁULICO,,,,,,,,,,,,,,,,,BOMBA DIREÇAO E TRANSMISSAO DEGONG 938,2020-11-12 17:03:50
+4971,Produto,,BUCHA ARTIC,bucha-artic,publish,USO GERAL,,,,,,,,,,,,,,,,,BUCHA ARTIC,2020-11-12 17:04:08
+4973,Produto,,FLANGE PLACA DE PRESSAO ART DG938,flange-placa-de-pressao-art-dg938,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,FLANGE PLACA DE PRESSAO ART DG938,2020-11-12 17:04:16
+4975,Produto,,BUCHA ARTIC DG938 P,bucha-artic-dg938-p,publish,USO GERAL,,,,,,,,,,,,,,,,,BUCHA ARTIC DG938 P,2020-11-12 17:04:34
+4977,Produto,,ARRUELA TRAVA PINO SUPERIOR  ART 2 FUROS DEGONG,arruela-trava-pino-superior-art-2-furos-degong,publish,"PORCAS E PARAFUSOS | ARRUELAS, PORCAS E PARAFUSOS",,,,,,,,,,,,,,,,,ARRUELA TRAVA PINO SUPERIOR  ART 2 FUROS DEGONG,2020-11-12 17:04:44
+4979,Produto,,BUCHA CONCHA,bucha-concha,publish,USO GERAL,,,,,,,,,,,,,,,,,BUCHA CONCHA,2020-11-12 17:04:48
+4981,Produto,,ARRUELA NYLON 60X100,arruela-nylon-60x100,publish,"PORCAS E PARAFUSOS | ARRUELAS, PORCAS E PARAFUSOS",,,,,,,,,,,,,,,,,ARRUELA NYLON 60X100,2020-11-12 17:04:55
+4983,Produto,,ARRUELA NYLON  70X140,arruela-nylon-70x140,publish,"PORCAS E PARAFUSOS | ARRUELAS, PORCAS E PARAFUSOS",,,,,,,,,,,,,,,,,ARRUELA NYLON  70X140,2020-11-12 17:05:02
+4985,Produto,,PINO MEIO H DEGONG,pino-meio-h-degong,publish,USO GERAL,,,,,,,,,,,,,,,,,PINO MEIO H DEGONG,2020-11-12 17:05:04
+4987,Produto,,CANO DAGUA,cano-dagua,publish,MOTOR,,,,,,,,,,,,,,,,,CANO DAGUA,2020-11-12 17:05:11
+4989,Produto,,TAMPA,tampa,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,TAMPA,2020-11-12 17:05:19
+4991,Produto,,BUCHA,bucha-3,publish,USO GERAL,,,,,,,,,,,,,,,,,BUCHA,2020-11-12 17:05:22
+4993,Produto,,PINO PLANETARIA,pino-planetaria,publish,USO GERAL,,,,,,,,,,,,,,,,,PINO PLANETARIA,2020-11-12 17:05:25
+4995,Produto,,ANEL O,anel-o,publish,USO GERAL,,,,,,,,,,,,,,,,,ANEL O,2020-11-12 17:05:33
+4997,Produto,,CARDAN,cardan,publish,USO GERAL,,,,,,,,,,,,,,,,,CARDAN,2020-11-12 17:05:41
+4999,Produto,,ALOJAMENTO DO CARDAN CJ,alojamento-do-cardan-cj,publish,USO GERAL,,,,,,,,,,,,,,,,,ALOJAMENTO DO CARDAN CJ,2020-11-12 17:05:49
+5001,Produto,,ENGRENAGEM,engrenagem-2,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,ENGRENAGEM,2020-11-12 17:06:06
+5003,Produto,,ENGRENAGEM,engrenagem-3,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,ENGRENAGEM,2020-11-12 17:06:16
+5005,Produto,,ENGRENAGEM,engrenagem-4,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,ENGRENAGEM,2020-11-12 17:06:23
+5007,Produto,,ENGRENAGEM PLANETARIA,engrenagem-planetaria,publish,DIFERENCIAL,,,,,,,,,,,,,,,,,ENGRENAGEM PLANETARIA,2020-11-12 17:06:30
+5009,Produto,,CABO,cabo,publish,MOTOR,,,,,,,,,,,,,,,,,CABO,2020-11-12 17:06:37
+5011,Produto,,CALCO DO PINHAO,calco-do-pinhao,publish,JUNTAS E CALÇOS,,,,,,,,,,,,,,,,,CALCO DO PINHAO,2020-11-12 17:06:44
+5013,Produto,,ENGRENAGEM 18 ESTRIAS,engrenagem-18-estrias,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,ENGRENAGEM 18 ESTRIAS,2020-11-12 17:06:51
+5015,Produto,,EIXO,eixo-2,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,EIXO,2020-11-12 17:06:58
+5017,Produto,,CANO DE OLEO,cano-de-oleo,publish,MOTOR,,,,,,,,,,,,,,,,,CANO DE OLEO,2020-11-12 17:07:06
+5019,Produto,,BUCHA DIRECAO 937H TRASEIRA,bucha-direcao-937h-traseira,publish,USO GERAL,,,,,,,,,,,,,,,,,BUCHA DIRECAO 937H TRASEIRA,2020-11-12 17:07:13
+5021,Produto,,ARRUELA DE BRONZE  DIF 937H,arruela-de-bronze-dif-937h,publish,"PORCAS E PARAFUSOS | ARRUELAS, PORCAS E PARAFUSOS",,,,,,,,,,,,,,,,,ARRUELA DE BRONZE  DIF 937H,2020-11-12 17:07:19
+5023,Produto,,HASTE PISTAO DIRECAO 937H,haste-pistao-direcao-937h,publish,USO GERAL,,,,,,,,,,,,,,,,,HASTE PISTAO DIRECAO 937H,2020-11-12 17:07:26
+5025,Produto,,PINO INF ARTIC  937H,pino-inf-artic-937h,publish,USO GERAL,,,,,,,,,,,,,,,,,PINO INF ARTIC  937H,2020-11-12 17:07:33
+5027,Produto,,FLANGE ARTICULACAO 937H,flange-articulacao-937h,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,FLANGE ARTICULACAO 937H,2020-11-12 17:07:40
+5029,Produto,,CALÇO,calco-2,publish,JUNTAS E CALÇOS,,,,,,,,,,,,,,,,,CALÇO,2020-11-12 17:07:47
+5031,Produto,,ARRUELA,arruela-2,publish,"PORCAS E PARAFUSOS | ARRUELAS, PORCAS E PARAFUSOS",,,,,,,,,,,,,,,,,ARRUELA,2020-11-12 17:07:54
+5033,Produto,,PINO DO H CONCHA,pino-do-h-concha,publish,USO GERAL,,,,,,,,,,,,,,,,,PINO DO H CONCHA,2020-11-12 17:08:01
+5035,Produto,,BUCHA MEIO DO H 937H CHANGLIN,bucha-meio-do-h-937h-changlin,publish,USO GERAL,,,,,,,,,,,,,,,,,BUCHA MEIO DO H 937H CHANGLIN,2020-11-12 17:08:04
+5037,Produto,,BUCHA,bucha-4,publish,USO GERAL,,,,,,,,,,,,,,,,,BUCHA,2020-11-12 17:08:11
+5039,Produto,,BUCHA PISTAO INCL 937,bucha-pistao-incl-937,publish,SISTEMA HIDRÁULICO,,,,,,,,,,,,,,,,,BUCHA PISTAO INCL 937,2020-11-12 17:08:23
+5041,Produto,,SUPORTE,suporte,publish,USO GERAL,,,,,,,,,,,,,,,,,SUPORTE,2020-11-12 17:08:30
+5043,Produto,,BOMBA DIRECAO 937H L30 CHANGLIN ESTRIADA 14 ESTRIA,bomba-direcao-937h-l30-changlin-estriada-14-estria,publish,SISTEMA HIDRÁULICO,,,,,,,,,,,,,,,,,BOMBA DIRECAO 937H L30 CHANGLIN ESTRIADA 14 ESTRIA,2020-11-12 17:08:34
+5045,Produto,,TRAVA ARANHA RODA 937,trava-aranha-roda-937,publish,USO GERAL,,,,,,,,,,,,,,,,,TRAVA ARANHA RODA 937,2020-11-12 17:08:36
+5047,Produto,,TAMPA CUBO,tampa-cubo,publish,DIFERENCIAL,,,,,,,,,,,,,,,,,TAMPA CUBO,2020-11-12 17:08:43
+5049,Produto,,CRUZETA CARDANS DEGONG/CHANGLIN/XGMA,cruzeta-cardans-degong-changlin-xgma,publish,DIFERENCIAL,,,,,,,,,,,,,,,,,CRUZETA CARDANS DEGONG/CHANGLIN/XGMA,2020-11-12 17:08:46
+5051,Produto,,PORCA,porca,publish,"PORCAS E PARAFUSOS | ARRUELAS, PORCAS E PARAFUSOS",,,,,,,,,,,,,,,,,PORCA,2020-11-12 17:08:50
+5053,Produto,,ARRUELA,arruela-3,publish,"PORCAS E PARAFUSOS | ARRUELAS, PORCAS E PARAFUSOS",,,,,,,,,,,,,,,,,ARRUELA,2020-11-12 17:08:53
+5055,Produto,,ENGRENAGEM,engrenagem-5,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,ENGRENAGEM,2020-11-12 17:09:00
+5057,Produto,,ARRUELA DIFERENCIAL PEQUENA 937H CHANGLIN,arruela-diferencial-pequena-937h-changlin,publish,"PORCAS E PARAFUSOS | ARRUELAS, PORCAS E PARAFUSOS",,,,,,,,,,,,,,,,,ARRUELA DIFERENCIAL PEQUENA 937H CHANGLIN,2020-11-12 17:09:14
+5059,Produto,,ESPACADOR,espacador,publish,JUNTAS E CALÇOS,,,,,,,,,,,,,,,,,ESPACADOR,2020-11-12 17:09:21
+5061,Produto,,FILTRO,filtro,publish,FILTROS,,,,,,,,,,,,,,,,,FILTRO,2020-11-12 17:09:29
+5063,Produto,,ESPACADOR,espacador-2,publish,JUNTAS E CALÇOS,,,,,,,,,,,,,,,,,ESPACADOR,2020-11-12 17:09:37
+5065,Produto,,PINO LH,pino-lh,publish,USO GERAL,,,,,,,,,,,,,,,,,PINO LH,2020-11-12 17:09:44
+5067,Produto,,PINO LH,pino-lh-2,publish,USO GERAL,,,,,,,,,,,,,,,,,PINO LH,2020-11-12 17:09:51
+5069,Produto,,SUPORTE,suporte-2,publish,USO GERAL,,,,,,,,,,,,,,,,,SUPORTE,2020-11-12 17:09:58
+5071,Produto,,PINO,pino,publish,USO GERAL,,,,,,,,,,,,,,,,,PINO,2020-11-12 17:10:05
+5073,Produto,,ESPACADOR,espacador-3,publish,JUNTAS E CALÇOS,,,,,,,,,,,,,,,,,ESPACADOR,2020-11-12 17:10:12
+5075,Produto,,PINO,pino-2,publish,USO GERAL,,,,,,,,,,,,,,,,,PINO,2020-11-12 17:10:19
+5077,Produto,,ESFERA,esfera,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ESFERA,2020-11-12 17:10:26
+5079,Produto,,PLACA,placa-2,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,PLACA,2020-11-12 17:10:33
+5081,Produto,,ANEL TRAVA,anel-trava-2,publish,USO GERAL,,,,,,,,,,,,,,,,,ANEL TRAVA,2020-11-12 17:10:40
+5083,Produto,,PORCA,porca-2,publish,"PORCAS E PARAFUSOS | ARRUELAS, PORCAS E PARAFUSOS",,,,,,,,,,,,,,,,,PORCA,2020-11-12 17:10:47
+5085,Produto,,ARTICULAÇÃO,articulacao,publish,USO GERAL,,,,,,,,,,,,,,,,,ARTICULAÇÃO,2020-11-12 17:10:54
+5087,Produto,,ALAVANCA,alavanca,publish,USO GERAL,,,,,,,,,,,,,,,,,ALAVANCA,2020-11-12 17:11:01
+5089,Produto,,BATENTE,batente,publish,MOTOR,,,,,,,,,,,,,,,,,BATENTE,2020-11-12 17:11:08
+5091,Produto,,ENGRENAGEM,engrenagem-6,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,ENGRENAGEM,2020-11-12 17:11:16
+5093,Produto,,GARFO,garfo,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,GARFO,2020-11-12 17:11:24
+5095,Produto,,GARFO,garfo-2,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,GARFO,2020-11-12 17:11:31
+5097,Produto,,EIXO,eixo-3,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,EIXO,2020-11-12 17:11:37
+5099,Produto,,PINO,pino-3,publish,USO GERAL,,,,,,,,,,,,,,,,,PINO,2020-11-12 17:11:45
+5101,Produto,,COXIM,coxim,publish,USO GERAL,,,,,,,,,,,,,,,,,COXIM,2020-11-12 17:11:52
+5103,Produto,,GUIA DO GIRO PATROL,guia-do-giro-patrol,publish,USO GERAL,,,,,,,,,,,,,,,,,GUIA DO GIRO PATROL,2020-11-12 17:11:54
+5105,Produto,,TAMPAO,tampao,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,TAMPAO,2020-11-12 17:12:01
+5107,Produto,,BUCHA,bucha-5,publish,USO GERAL,,,,,,,,,,,,,,,,,BUCHA,2020-11-12 17:12:09
+5109,Produto,,BUCHA,bucha-6,publish,USO GERAL,,,,,,,,,,,,,,,,,BUCHA,2020-11-12 17:12:16
+5111,Produto,,CALCO,calco-3,publish,JUNTAS E CALÇOS,,,,,,,,,,,,,,,,,CALCO,2020-11-12 17:12:23
+5113,Produto,,BUCHA,bucha-7,publish,USO GERAL,,,,,,,,,,,,,,,,,BUCHA,2020-11-12 17:12:30
+5115,Produto,,ENGRENAGEM,engrenagem-7,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,ENGRENAGEM,2020-11-12 17:12:37
+5117,Produto,,ARTICULACAO,articulacao-2,publish,USO GERAL,,,,,,,,,,,,,,,,,ARTICULACAO,2020-11-12 17:12:44
+5119,Produto,,BUCHA,bucha-8,publish,USO GERAL,,,,,,,,,,,,,,,,,BUCHA,2020-11-12 17:12:52
+5121,Produto,,PINO,pino-4,publish,USO GERAL,,,,,,,,,,,,,,,,,PINO,2020-11-12 17:12:59
+5123,Produto,,SOLENOIDE C/3 ANEIS,solenoide-c-3-aneis,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,SOLENOIDE C/3 ANEIS,2020-11-12 17:13:02
+5125,Produto,,ROLAMENTO,rolamento-11,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO,2020-11-12 17:13:06
+5127,Produto,,"ROLAMENTO JG 2 PCS K45X75X32,2/24,4",rolamento-jg-2-pcs-k45x75x322-244,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,"ROLAMENTO JG 2 PCS K45X75X32,2/24,4",2020-11-12 17:13:19
+5129,Produto,,ROLAMENTO,rolamento-12,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO,2020-11-12 17:13:32
+5131,Produto,,ROLAMENTO,rolamento-13,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO,2020-11-12 17:13:45
+5133,Produto,,ROLAMENTO DE ROLETE JG 2 PECAS,rolamento-de-rolete-jg-2-pecas,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO DE ROLETE JG 2 PECAS,2020-11-12 17:13:53
+5135,Produto,,MOLA PRESSAO,mola-pressao,publish,USO GERAL,,,,,,,,,,,,,,,,,MOLA PRESSAO,2020-11-12 17:14:00
+5137,Produto,,EIXO DIFERENCIAL,eixo-diferencial,publish,DIFERENCIAL,,,,,,,,,,,,,,,,,EIXO DIFERENCIAL,2020-11-12 17:14:07
+5139,Produto,,ENGRENAGEM,engrenagem-8,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,ENGRENAGEM,2020-11-12 17:14:14
+5141,Produto,,ARRUELA,arruela-4,publish,"PORCAS E PARAFUSOS | ARRUELAS, PORCAS E PARAFUSOS",,,,,,,,,,,,,,,,,ARRUELA,2020-11-12 17:14:19
+5143,Produto,,ROLAMENTO,rolamento-14,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO,2020-11-12 17:14:26
+5145,Produto,,ROLAMENTO AGULHA,rolamento-agulha,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO AGULHA,2020-11-12 17:14:33
+5147,Produto,,ENGRENAGEM,engrenagem-9,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,ENGRENAGEM,2020-11-12 17:14:40
+5152,Produto,,COLETOR ADMISSAO XGMA 932III,coletor-admissao-xgma-932iii,publish,MOTOR,,,,,,,,,,,,,,,,,COLETOR ADMISSAO XGMA 932III,2020-11-12 17:15:48
+5156,Produto,,ENGRENAGEM ZF,engrenagem-zf,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,ENGRENAGEM ZF,2020-11-12 17:17:01
+5164,Produto,,GUIA DE VALVULA YUCHAI,guia-de-valvula-yuchai,publish,MOTOR,,,,,,,,,,,,,,,,,GUIA DE VALVULA YUCHAI,2020-11-12 17:20:06
+5172,Produto,,TUBO ESCAPAMENTO XGMA 932III,tubo-escapamento-xgma-932iii,publish,MOTOR,,,,,,,,,,,,,,,,,TUBO ESCAPAMENTO XGMA 932III,2020-11-12 17:23:25
+5175,Produto,,USE 396-1308010A,use-396-1308010a,publish,MOTOR,,,,,,,,,,,,,,,,,USE 396-1308010A,2020-11-12 17:24:20
+5179,Produto,,TAMPA PACOTE REVERSAO CHANGLIN 937,tampa-pacote-reversao-changlin-937,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,TAMPA PACOTE REVERSAO CHANGLIN 937,2020-11-12 17:25:37
+5182,Produto,,FAROL C/ SETA ESQ DEGONG 938,farol-c-seta-esq-degong-938,publish,SISTEMA ELÉTRICO,,,,,,,,,,,,,,,,,FAROL C/ SETA ESQ DEGONG 938,2020-11-12 17:26:18
+5184,Produto,,TAMBOR TRANSMISSAO YD13..,tambor-transmissao-yd13,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,TAMBOR TRANSMISSAO YD13..,2020-11-12 17:26:22
+5187,Produto,,TAMBOR TRANSMISSAO 6WG,tambor-transmissao-6wg,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,TAMBOR TRANSMISSAO 6WG,2020-11-12 17:27:01
+5189,Produto,,BOTAO LUZ BAIXA  E LUZ TETO DGONG,botao-luz-baixa-e-luz-teto-dgong,publish,USO GERAL,,,,,,,,,,,,,,,,,BOTAO LUZ BAIXA  E LUZ TETO DGONG,2020-11-12 17:27:09
+5197,Produto,,SENSOR TEMP OLEO CONV TORK DEGONG DG938,sensor-temp-oleo-conv-tork-degong-dg938,publish,MOTOR,,,,,,,,,,,,,,,,,SENSOR TEMP OLEO CONV TORK DEGONG DG938,2020-11-12 17:30:18
+5199,Produto,,FILTRO AR INT DG938 PURIF PLASTICO,filtro-ar-int-dg938-purif-plastico,publish,FILTROS,,,,,,,,,,,,,,,,,FILTRO AR INT DG938 PURIF PLASTICO,2020-11-12 17:30:27
+5201,Produto,,VARETA NIVEL OLEO TRANSMISSAO,vareta-nivel-oleo-transmissao,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,VARETA NIVEL OLEO TRANSMISSAO,2020-11-12 17:30:31
+5203,Produto,,"JUNTA,",junta,publish,MOTOR,,,,,,,,,,,,,,,,,"JUNTA,",2020-11-12 17:30:38
+5205,Produto,,ROLAMENTO,rolamento-15,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO,2020-11-12 17:30:47
+5207,Produto,,MOTOR DE PARTIDA XINCHAI A498 COM FUCINHO,motor-de-partida-xinchai-a498-com-fucinho,publish,MOTOR,,,,,,,,,,,,,,,,,MOTOR DE PARTIDA XINCHAI A498 COM FUCINHO,2020-11-12 17:30:52
+5209,Produto,,BICO INJETOR DGONG/CHANGLIN(TODAS IMPORTADAS 6BT),bico-injetor-dgong-changlintodas-importadas-6bt,publish,MOTOR,,,,,,,,,,,,,,,,,BICO INJETOR DGONG/CHANGLIN(TODAS IMPORTADAS 6BT),2020-11-12 17:31:02
+5211,Produto,,TURBINA MOTOR CUMMINS 6BT5.9 VER R,turbina-motor-cummins-6bt5-9-ver-r,publish,MOTOR,,,,,,,,,,,,,,,,,TURBINA MOTOR CUMMINS 6BT5.9 VER R,2020-11-12 17:31:19
+5213,Produto,,FILTRO HIDR 56 COMPRIMENTO MAIOR,filtro-hidr-56-comprimento-maior,publish,FILTROS,,,,,,,,,,,,,,,,,FILTRO HIDR 56 COMPRIMENTO MAIOR,2020-11-12 17:31:23
+5215,Produto,,PLACA DO RETENTOR DIFERENCIAL .,placa-do-retentor-diferencial,publish,RETENTORES,,,,,,,,,,,,,,,,,PLACA DO RETENTOR DIFERENCIAL .,2020-11-12 17:31:33
+5218,Produto,,ENGRENAGEM,engrenagem-10,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,ENGRENAGEM,2020-11-12 17:32:17
+5220,Produto,,EIXO,eixo-4,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,EIXO,2020-11-12 17:32:25
+5222,Produto,,TUCHO DO PRISIONEIRO RODA DINT COM PORCA (RC147  CJ),tucho-do-prisioneiro-roda-dint-com-porca-rc147-cj,publish,"ARRUELAS, PORCAS E PARAFUSOS | PORCAS E PARAFUSOS",,,,,,,,,,,,,,,,,TUCHO DO PRISIONEIRO RODA DINT COM PORCA (RC147  CJ),2020-11-12 17:32:43
+5224,Produto,,INJETOR DE COMBUSTIVEL,injetor-de-combustivel,publish,MOTOR,,,,,,,,,,,,,,,,,INJETOR DE COMBUSTIVEL,2020-11-12 17:32:54
+5226,Produto,,JOGO DE CANOS INJETOR,jogo-de-canos-injetor,publish,MOTOR,,,,,,,,,,,,,,,,,JOGO DE CANOS INJETOR,2020-11-12 17:32:57
+5228,Produto,,BOMBA DE OLEO XINCHAI 498,bomba-de-oleo-xinchai-498,publish,MOTOR,,,,,,,,,,,,,,,,,BOMBA DE OLEO XINCHAI 498,2020-11-12 17:33:04
+5230,Produto,,FILTRO DE SUCCAO DO RESERVATORIO HIDRAULICO,filtro-de-succao-do-reservatorio-hidraulico,publish,FILTROS,,,,,,,,,,,,,,,,,FILTRO DE SUCCAO DO RESERVATORIO HIDRAULICO,2020-11-12 17:33:08
+5232,Produto,,ROLDANA DO CIL CENTRAL DA TORRE 3.5-40T 45X126X44,roldana-do-cil-central-da-torre-3-5-40t-45x126x44,publish,USO GERAL,,,,,,,,,,,,,,,,,ROLDANA DO CIL CENTRAL DA TORRE 3.5-40T 45X126X44,2020-11-12 17:33:16
+5234,Produto,,CAMISA MOTOR XINCHAI 498BT/BPG,camisa-motor-xinchai-498bt-bpg,publish,MOTOR,,,,,,,,,,,,,,,,,CAMISA MOTOR XINCHAI 498BT/BPG,2020-11-12 17:33:24
+5237,Produto,,ROLAMENTO DE AGULHA,rolamento-de-agulha,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO DE AGULHA,2020-11-12 17:34:04
+5239,Produto,,CILINDRO DE RODA 3.0 3.5 E T.TERR,cilindro-de-roda-3-0-3-5-e-t-terr,publish,SISTEMA DE FREIO,,,,,,,,,,,,,,,,,CILINDRO DE RODA 3.0 3.5 E T.TERR,2020-11-12 17:34:16
+5241,Produto,,CABECOTE MOTOR XINCHAI,cabecote-motor-xinchai,publish,MOTOR,,,,,,,,,,,,,,,,,CABECOTE MOTOR XINCHAI,2020-11-12 17:34:23
+5243,Produto,,JUNTA TAMPA DE VALVULA COSTELADA MOTOR XINCHAI 498B,junta-tampa-de-valvula-costelada-motor-xinchai-498b,publish,MOTOR,,,,,,,,,,,,,,,,,JUNTA TAMPA DE VALVULA COSTELADA MOTOR XINCHAI 498B,2020-11-12 17:34:30
+5245,Produto,,SILENCIOSO XGMA 932III MOTOR T20 (UM PE),silencioso-xgma-932iii-motor-t20-um-pe,publish,MOTOR,,,,,,,,,,,,,,,,,SILENCIOSO XGMA 932III MOTOR T20 (UM PE),2020-11-12 17:34:40
+5247,Produto,,JUNTA TROCADOR CALOR XGMA 932III,junta-trocador-calor-xgma-932iii,publish,USO GERAL,,,,,,,,,,,,,,,,,JUNTA TROCADOR CALOR XGMA 932III,2020-11-12 17:34:43
+5249,Produto,,JG CABO DE VELA MOTOR NISSAN K25/21,jg-cabo-de-vela-motor-nissan-k25-21,publish,MOTOR,,,,,,,,,,,,,,,,,JG CABO DE VELA MOTOR NISSAN K25/21,2020-11-12 17:34:47
+5251,Produto,,VALVULA FREIO ESTACIONARIO,valvula-freio-estacionario,publish,FREIOS,,,,,,,,,,,,,,,,,VALVULA FREIO ESTACIONARIO,2020-11-12 17:34:49
+5253,Produto,,REPARO PINCA PISTAO 73MM,reparo-pinca-pistao-73mm,publish,RETENTORES,,,,,,,,,,,,,,,,,REPARO PINCA PISTAO 73MM,2020-11-12 17:34:57
+5255,Produto,,SEDE VALVULA ADMISSAO YUCHAI,sede-valvula-admissao-yuchai,publish,MOTOR,,,,,,,,,,,,,,,,,SEDE VALVULA ADMISSAO YUCHAI,2020-11-12 17:35:04
+5257,Produto,,VALVULA TERMOSTATICA YUCHAI XGMA 932III,valvula-termostatica-yuchai-xgma-932iii,publish,MOTOR,,,,,,,,,,,,,,,,,VALVULA TERMOSTATICA YUCHAI XGMA 932III,2020-11-12 17:35:07
+5259,Produto,,TAMPA BOCAL OLEO,tampa-bocal-oleo,publish,MOTOR,,,,,,,,,,,,,,,,,TAMPA BOCAL OLEO,2020-11-12 17:35:15
+5261,Produto,,PLACA TRANS QUADRADA  DO CONVERSOR  4WG180  DG958,placa-trans-quadrada-do-conversor-4wg180-dg958,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,PLACA TRANS QUADRADA  DO CONVERSOR  4WG180  DG958,2020-11-12 17:35:23
+5263,Produto,,ORBITROL,orbitrol,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,ORBITROL,2020-11-12 17:35:42
+5265,Produto,,BOMBA INJETORA CUMMINS 6BT,bomba-injetora-cummins-6bt,publish,MOTOR,,,,,,,,,,,,,,,,,BOMBA INJETORA CUMMINS 6BT,2020-11-12 17:35:50
+5267,Produto,,ROLAMENTO,rolamento-16,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO,2020-11-12 17:36:05
+5269,Produto,,ROLAMENTO COM RETENTOR 33012 MAXIMAL,rolamento-com-retentor-33012-maximal,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO COM RETENTOR 33012 MAXIMAL,2020-11-12 17:36:09
+5271,Produto,,APOIO DE ASSENTO,apoio-de-assento,publish,USO GERAL,,,,,,,,,,,,,,,,,APOIO DE ASSENTO,2020-11-12 17:36:16
+5273,Produto,,ENGRENAGEM PLANETARIA,engrenagem-planetaria-2,publish,DIFERENCIAL,,,,,,,,,,,,,,,,,ENGRENAGEM PLANETARIA,2020-11-12 17:36:23
+5275,Produto,,DISCO DE FRICCAO,disco-de-friccao,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,DISCO DE FRICCAO,2020-11-12 17:36:30
+5277,Produto,,PLACA DE PRESSAO,placa-de-pressao,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,PLACA DE PRESSAO,2020-11-12 17:36:38
+5279,Produto,,PISTAO,pistao,publish,MOTOR,,,,,,,,,,,,,,,,,PISTAO,2020-11-12 17:36:45
+5281,Produto,,CALCO,calco-4,publish,JUNTAS E CALÇOS,,,,,,,,,,,,,,,,,CALCO,2020-11-12 17:36:52
+5283,Produto,,COXIM I,coxim-i,publish,USO GERAL,,,,,,,,,,,,,,,,,COXIM I,2020-11-12 17:36:59
+5285,Produto,,FILTRO TELA TRANSMISSÃO,filtro-tela-transmissao,publish,FILTROS,,,,,,,,,,,,,,,,,FILTRO TELA TRANSMISSÃO,2020-11-12 17:37:06
+5287,Produto,,ENGRENAGEM,engrenagem-11,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,ENGRENAGEM,2020-11-12 17:37:14
+5289,Produto,,TAMPA RADIADOR DEGONG,tampa-radiador-degong,publish,FILTROS,,,,,,,,,,,,,,,,,TAMPA RADIADOR DEGONG,2020-11-12 17:37:17
+5291,Produto,,JUNTA TAMPA DE VALVULA MOTOR 4G64/4G63,junta-tampa-de-valvula-motor-4g64-4g63,publish,MOTOR,,,,,,,,,,,,,,,,,JUNTA TAMPA DE VALVULA MOTOR 4G64/4G63,2020-11-12 17:37:24
+5293,Produto,,CONJUNTO PEDAL FREIO E ACELERADOR,conjunto-pedal-freio-e-acelerador,publish,SISTEMA DE FREIO,,,,,,,,,,,,,,,,,CONJUNTO PEDAL FREIO E ACELERADOR,2020-11-12 17:37:31
+5295,Produto,,SAPATA C/ LONA DA MAXIMAL M25 FILIPADA,sapata-c-lona-da-maximal-m25-filipada,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,SAPATA C/ LONA DA MAXIMAL M25 FILIPADA,2020-11-12 17:37:54
+5297,Produto,,ROLAMENTO AGULHA,rolamento-agulha-2,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO AGULHA,2020-11-12 17:38:07
+5299,Produto,,CRUZETA,cruzeta,publish,USO GERAL,,,,,,,,,,,,,,,,,CRUZETA,2020-11-12 17:38:15
+5301,Produto,,MOTOR PARTIDA MOTOR 4G64/63,motor-partida-motor-4g64-63,publish,MOTOR,,,,,,,,,,,,,,,,,MOTOR PARTIDA MOTOR 4G64/63,2020-11-12 17:38:23
+5303,Produto,,"CABO ACEL HANGCHA MOTOR XINCHAI 1,39MT OLHAU E PINO NAS PONT",cabo-acel-hangcha-motor-xinchai-139mt-olhau-e-pino-nas-pont,publish,MOTOR,,,,,,,,,,,,,,,,,"CABO ACEL HANGCHA MOTOR XINCHAI 1,39MT OLHAU E PINO NAS PONT",2020-11-12 17:38:40
+5305,Produto,,CRUZETA CARDANS COVERSOR (PEQUENO),cruzeta-cardans-coversor-pequeno,publish,DIFERENCIAL,,,,,,,,,,,,,,,,,CRUZETA CARDANS COVERSOR (PEQUENO),2020-11-12 17:38:47
+5307,Produto,,FILTRO DE OLEO MOTOR NISSAN/YANMAR,filtro-de-oleo-motor-nissan-yanmar,publish,FILTROS,,,,,,,,,,,,,,,,,FILTRO DE OLEO MOTOR NISSAN/YANMAR,2020-11-12 17:38:55
+5310,Produto,,TAMPA DA ROTULA CONCHA PEQUENA,tampa-da-rotula-concha-pequena,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,TAMPA DA ROTULA CONCHA PEQUENA,2020-11-12 17:39:00
+5312,Produto,,RETENTOR CX TRANSMISSAO,retentor-cx-transmissao,publish,RETENTORES,,,,,,,,,,,,,,,,,RETENTOR CX TRANSMISSAO,2020-11-12 17:39:07
+5314,Produto,,RETENTOR HASTE GARFO,retentor-haste-garfo,publish,RETENTORES,,,,,,,,,,,,,,,,,RETENTOR HASTE GARFO,2020-11-12 17:39:14
+5316,Produto,,RETENTOR 80X100X10,retentor-80x100x10,publish,RETENTORES,,,,,,,,,,,,,,,,,RETENTOR 80X100X10,2020-11-12 17:39:22
+5318,Produto,,ALOJAMENTO DG938,alojamento-dg938,publish,USO GERAL,,,,,,,,,,,,,,,,,ALOJAMENTO DG938,2020-11-12 17:39:29
+5320,Produto,,FLANGE EIXO INTERMEDIARIO DG938 20 ESTRIAS,flange-eixo-intermediario-dg938-20-estrias,publish,TRANSMISSÃO,,54174,,,NULL,instock,,0,0,0,,no,no,0,0,,FLANGE EIXO INTERMEDIARIO DG938 20 ESTRIAS,2020-11-12 17:39:37
+5322,Produto,,CABO MARCHA REVERSAO DEGONG SEM ALAVANCA,cabo-marcha-reversao-degong-sem-alavanca,publish,MOTOR,,,,,,,,,,,,,,,,,CABO MARCHA REVERSAO DEGONG SEM ALAVANCA,2020-11-12 17:39:55
+5324,Produto,,ROLAMENTO DE ROLETES 45X75X28,rolamento-de-roletes-45x75x28,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO DE ROLETES 45X75X28,2020-11-12 17:40:08
+5327,Produto,,ALTERNADOR 12V MOTOR XINCHAI C490BPG,alternador-12v-motor-xinchai-c490bpg,publish,MOTOR,,,,,,,,,,,,,,,,,ALTERNADOR 12V MOTOR XINCHAI C490BPG,2020-11-12 17:40:49
+5329,Produto,,BOMBA HIDRAULICA DG958,bomba-hidraulica-dg958,publish,SISTEMA HIDRÁULICO,,,,,,,,,,,,,,,,,BOMBA HIDRAULICA DG958,2020-11-12 17:40:51
+5331,Produto,,SOLENOIDE BBA INJ DEGONG XCMG CHANGLIN,solenoide-bba-inj-degong-xcmg-changlin,publish,SISTEMA ELÉTRICO,,,,,,,,,,,,,,,,,SOLENOIDE BBA INJ DEGONG XCMG CHANGLIN,2020-11-12 17:40:54
+5333,Produto,,POLIA,polia,publish,MOTOR,,,,,,,,,,,,,,,,,POLIA,2020-11-12 17:41:00
+5335,Produto,,BUCHA CIL DIRECAO XGMA,bucha-cil-direcao-xgma,publish,USO GERAL,,,,,,,,,,,,,,,,,BUCHA CIL DIRECAO XGMA,2020-11-12 17:41:02
+5337,Produto,,DOBRADICA DO CAPO MAXIMAL 2-4 TONELADAS,dobradica-do-capo-maximal-2-4-toneladas,publish,USO GERAL,,,,,,,,,,,,,,,,,DOBRADICA DO CAPO MAXIMAL 2-4 TONELADAS,2020-11-12 17:41:06
+5339,Produto,,ROTULA CIL DIR XGMA 932,rotula-cil-dir-xgma-932,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROTULA CIL DIR XGMA 932,2020-11-12 17:41:12
+5341,Produto,,ROLAMENTO PINHAO RE XGMA 932III,rolamento-pinhao-re-xgma-932iii,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO PINHAO RE XGMA 932III,2020-11-12 17:41:15
+5343,Produto,,MOLA PRATO CJ RE,mola-prato-cj-re,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,MOLA PRATO CJ RE,2020-11-12 17:41:17
+5345,Produto,,RETENTOR DIANT. VIRABREQUIM MOTOR 498BPG,retentor-diant-virabrequim-motor-498bpg,publish,RETENTORES,,,,,,,,,,,,,,,,,RETENTOR DIANT. VIRABREQUIM MOTOR 498BPG,2020-11-12 17:41:21
+5347,Produto,,ROLAMENTO EXTERNO DO CUBO TRAZ,rolamento-externo-do-cubo-traz,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO EXTERNO DO CUBO TRAZ,2020-11-12 17:41:25
+5349,Produto,,ROTULA DO PINO ARTC. EIXO TRAS,rotula-do-pino-artc-eixo-tras,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROTULA DO PINO ARTC. EIXO TRAS,2020-11-12 17:41:28
+5351,Produto,,ROTULA DO PINO DO EIXO TRAS,rotula-do-pino-do-eixo-tras,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROTULA DO PINO DO EIXO TRAS,2020-11-12 17:41:30
+5353,Produto,,ARTICULADOR DA MANGA DO EIXO INFERIOR,articulador-da-manga-do-eixo-inferior,publish,USO GERAL,,,,,,,,,,,,,,,,,ARTICULADOR DA MANGA DO EIXO INFERIOR,2020-11-12 17:41:32
+5355,Produto,,VEDADOR DE PO,vedador-de-po,publish,RETENTORES,,,,,,,,,,,,,,,,,VEDADOR DE PO,2020-11-12 17:41:34
+5357,Produto,,FLANGE ART 937H,flange-art-937h,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,FLANGE ART 937H,2020-11-12 17:41:36
+5359,Produto,,FLANGE ART 937H,flange-art-937h-2,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,FLANGE ART 937H,2020-11-12 17:41:37
+5361,Produto,,MANGUEIRA SUP RADIADOR MOTOR MAXIMAL NISSAN,mangueira-sup-radiador-motor-maximal-nissan,publish,MOTOR,,,,,,,,,,,,,,,,,MANGUEIRA SUP RADIADOR MOTOR MAXIMAL NISSAN,2020-11-12 17:41:41
+5363,Produto,,ROLAMENTO DE AGULHA MANGA DE EIXO,rolamento-de-agulha-manga-de-eixo,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO DE AGULHA MANGA DE EIXO,2020-11-12 17:41:48
+5365,Produto,,VEDADOR,vedador-2,publish,RETENTORES,,,,,,,,,,,,,,,,,VEDADOR,2020-11-12 17:41:52
+5367,Produto,,MANGA DE EIXO LD,manga-de-eixo-ld,publish,USO GERAL,,,,,,,,,,,,,,,,,MANGA DE EIXO LD,2020-11-12 17:41:53
+5369,Produto,,ROLAMENTO,rolamento-17,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO,2020-11-12 17:41:55
+5371,Produto,,TAMPA PACOTE 3ª CHANGLIN 937H,tampa-pacote-3a-changlin-937h,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,TAMPA PACOTE 3ª CHANGLIN 937H,2020-11-12 17:41:57
+5373,Produto,,ROLAMENTO,rolamento-18,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO,2020-11-12 17:42:00
+5375,Produto,,BOMBA TRANSMISSAO HYSTER,bomba-transmissao-hyster,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,BOMBA TRANSMISSAO HYSTER,2020-11-12 17:42:02
+5377,Produto,,CONJUNTO DE PLANETARIA,conjunto-de-planetaria,publish,DIFERENCIAL,,,,,,,,,,,,,,,,,CONJUNTO DE PLANETARIA,2020-11-12 17:42:06
+5379,Produto,,POLIA AR CONDICIONADO DEGONG (UMA CANALETA),polia-ar-condicionado-degong-uma-canaleta,publish,MOTOR,,,,,,,,,,,,,,,,,POLIA AR CONDICIONADO DEGONG (UMA CANALETA),2020-11-12 17:42:08
+5381,Produto,,GUARDA PO,guarda-po,publish,RETENTORES,,,,,,,,,,,,,,,,,GUARDA PO,2020-11-12 17:42:09
+5383,Produto,,CILINDRO MESTRE FREIO COM COPINHO HANGCHA 3.0 A 3.5 TON,cilindro-mestre-freio-com-copinho-hangcha-3-0-a-3-5-ton,publish,FREIOS,,,,,,,,,,,,,,,,,CILINDRO MESTRE FREIO COM COPINHO HANGCHA 3.0 A 3.5 TON,2020-11-12 17:42:13
+5385,Produto,,"CILINDRO RODA LE MAXIMAL 2,5T",cilindro-roda-le-maximal-25t,publish,SISTEMA DE FREIO,,,,,,,,,,,,,,,,,"CILINDRO RODA LE MAXIMAL 2,5T",2020-11-12 17:42:15
+5387,Produto,,RETENTOR CUBO RODA INT HANGCHA,retentor-cubo-roda-int-hangcha,publish,RETENTORES,,,,,,,,,,,,,,,,,RETENTOR CUBO RODA INT HANGCHA,2020-11-12 17:42:18
+5389,Produto,,ROLAMENTO CUBO RODA DIANT,rolamento-cubo-roda-diant,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO CUBO RODA DIANT,2020-11-12 17:42:19
+5391,Produto,,RETENTOR 932,retentor-932,publish,RETENTORES,,,,,,,,,,,,,,,,,RETENTOR 932,2020-11-12 17:42:21
+5393,Produto,,PISTAO DO MOTOR YANMAR 4TNV98,pistao-do-motor-yanmar-4tnv98,publish,MOTOR,,,,,,,,,,,,,,,,,PISTAO DO MOTOR YANMAR 4TNV98,2020-11-12 17:42:22
+5395,Produto,,DISCO SEPARADOR 932/YUTONG,disco-separador-932-yutong,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,DISCO SEPARADOR 932/YUTONG,2020-11-12 17:42:24
+5397,Produto,,ESPAÇADOR 932,espacador-932,publish,JUNTAS E CALÇOS,,,,,,,,,,,,,,,,,ESPAÇADOR 932,2020-11-12 17:42:26
+5399,Produto,,ROLAMENTO PINHAO PEQ PY165,rolamento-pinhao-peq-py165,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO PINHAO PEQ PY165,2020-11-12 17:42:28
+5401,Produto,,GAIOLA,gaiola,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,GAIOLA,2020-11-12 17:42:30
+5403,Produto,,MOLA,mola,publish,USO GERAL,,,,,,,,,,,,,,,,,MOLA,2020-11-12 17:42:31
+5405,Produto,,ARRUELA LISA MITSUBISHI FG25,arruela-lisa-mitsubishi-fg25,publish,"ARRUELAS, PORCAS E PARAFUSOS | PORCAS E PARAFUSOS",,,,,,,,,,,,,,,,,ARRUELA LISA MITSUBISHI FG25,2020-11-12 17:42:33
+5407,Produto,,LUVA DA BOMBA HID ZL30H 10X14,luva-da-bomba-hid-zl30h-10x14,publish,USO GERAL,,,,,,,,,,,,,,,,,LUVA DA BOMBA HID ZL30H 10X14,2020-11-12 17:42:38
+5409,Produto,,DISCO DA RE,disco-da-re,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,DISCO DA RE,2020-11-12 17:42:39
+5411,Produto,,PINO DG938,pino-dg938,publish,USO GERAL,,,,,,,,,,,,,,,,,PINO DG938,2020-11-12 17:42:41
+5413,Produto,,ROLAMENTO CONVERSOR DG938,rolamento-conversor-dg938,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO CONVERSOR DG938,2020-11-12 17:42:44
+5415,Produto,,BASE DE RETENTOR TRANSMISSAO PA CARREGADEIRA,base-de-retentor-transmissao-pa-carregadeira,publish,RETENTORES,,,,,,,,,,,,,,,,,BASE DE RETENTOR TRANSMISSAO PA CARREGADEIRA,2020-11-12 17:42:46
+5417,Produto,,EIXO ZF,eixo-zf,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,EIXO ZF,2020-11-12 17:42:48
+5419,Produto,,ARRUELA ESPACADORA FINA,arruela-espacadora-fina,publish,"PORCAS E PARAFUSOS | ARRUELAS, PORCAS E PARAFUSOS",,,,,,,,,,,,,,,,,ARRUELA ESPACADORA FINA,2020-11-12 17:42:50
+5421,Produto,,CAMISA DO BICO INJETOR  FINO,camisa-do-bico-injetor-fino,publish,MOTOR,,,,,,,,,,,,,,,,,CAMISA DO BICO INJETOR  FINO,2020-11-12 17:42:52
+5423,Produto,,ROLAMENTO,rolamento-19,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO,2020-11-12 17:42:57
+5425,Produto,,FAROL C/ SETA L/E CHANGLIN 937H,farol-c-seta-l-e-changlin-937h,publish,SISTEMA ELÉTRICO,,,,,,,,,,,,,,,,,FAROL C/ SETA L/E CHANGLIN 937H,2020-11-12 17:43:02
+5427,Produto,,LUVA BICO INJETOR YUCHAI XGMA 932III,luva-bico-injetor-yuchai-xgma-932iii,publish,MOTOR,,,,,,,,,,,,,,,,,LUVA BICO INJETOR YUCHAI XGMA 932III,2020-11-12 17:43:05
+5429,Produto,,PORCA APERTO SEDE DO BICO XGMA 932III,porca-aperto-sede-do-bico-xgma-932iii,publish,"PORCAS E PARAFUSOS | ARRUELAS, PORCAS E PARAFUSOS",,,,,,,,,,,,,,,,,PORCA APERTO SEDE DO BICO XGMA 932III,2020-11-12 17:43:09
+5431,Produto,,JUNTA DO CABEÇOTE XINCHAI 490,junta-do-cabecote-xinchai-490,publish,MOTOR,,,,,,,,,,,,,,,,,JUNTA DO CABEÇOTE XINCHAI 490,2020-11-12 17:43:11
+5433,Produto,,BUCHA CIL DIRECAO,bucha-cil-direcao,publish,USO GERAL,,,,,,,,,,,,,,,,,BUCHA CIL DIRECAO,2020-11-12 17:43:13
+5435,Produto,,CRUZETA CARDAN  MENOR DA DEGONG,cruzeta-cardan-menor-da-degong,publish,DIFERENCIAL,,,,,,,,,,,,,,,,,CRUZETA CARDAN  MENOR DA DEGONG,2020-11-12 17:43:16
+5437,Produto,,RESPIRO FILTRO HIDRAULICO,respiro-filtro-hidraulico,publish,FILTROS,,,,,,,,,,,,,,,,,RESPIRO FILTRO HIDRAULICO,2020-11-12 17:43:17
+5439,Produto,,DISTRIBUIDOR COMPLETO MOTOR MAZDA 2.2,distribuidor-completo-motor-mazda-2-2,publish,SISTEMA ELÉTRICO,,,,,,,,,,,,,,,,,DISTRIBUIDOR COMPLETO MOTOR MAZDA 2.2,2020-11-12 17:43:19
+5441,Produto,,RETENTOR BOMBA TRANSM E DIRECAO DEGONG,retentor-bomba-transm-e-direcao-degong,publish,RETENTORES,,,,,,,,,,,,,,,,,RETENTOR BOMBA TRANSM E DIRECAO DEGONG,2020-11-12 17:43:21
+5443,Produto,,FILTRO COMB 1º VER /O  P551329 C/ DRENO,filtro-comb-1o-ver-o-p551329-c-dreno,publish,FILTROS,,,,,,,,,,,,,,,,,FILTRO COMB 1º VER /O  P551329 C/ DRENO,2020-11-12 17:43:24
+5445,Produto,,ENCONDER 6205,enconder-6205,publish,MOTOR,,,,,,,,,,,,,,,,,ENCONDER 6205,2020-11-12 17:43:26
+5447,Produto,,RETENTOR INTERNO CUBO DA RODA,retentor-interno-cubo-da-roda,publish,RETENTORES,,,,,,,,,,,,,,,,,RETENTOR INTERNO CUBO DA RODA,2020-11-12 17:43:28
+5449,Produto,,ROLAMENTO,rolamento-20,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO,2020-11-12 17:43:34
+5451,Produto,,ROLAMENTO,rolamento-21,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO,2020-11-12 17:43:41
+5453,Produto,,ROLAMENTO,rolamento-22,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO,2020-11-12 17:43:47
+5455,Produto,,MANGUEIRA AR M25,mangueira-ar-m25,publish,SISTEMA HIDRÁULICO,,,,,,,,,,,,,,,,,MANGUEIRA AR M25,2020-11-12 17:43:49
+5457,Produto,,COMPRESSOR AR 918,compressor-ar-918,publish,MOTOR,,,,,,,,,,,,,,,,,COMPRESSOR AR 918,2020-11-12 17:43:51
+5459,Produto,,JUNTA COMANDO TRANSMISSAO DG938,junta-comando-transmissao-dg938,publish,DIFERENCIAL,,,,,,,,,,,,,,,,,JUNTA COMANDO TRANSMISSAO DG938,2020-11-12 17:43:53
+5461,Produto,,BOMBA DAGUA M35 YANMAR 4TNE92,bomba-dagua-m35-yanmar-4tne92,publish,SISTEMA ELÉTRICO,,,,,,,,,,,,,,,,,BOMBA DAGUA M35 YANMAR 4TNE92,2020-11-12 17:44:00
+5463,Produto,,TERMINAL XG31802,terminal-xg31802,publish,USO GERAL,,455,,,NULL,instock,no,0,0,0,,no,no,0,0,0,TERMINAL XG31802,2020-11-12 17:44:02
+5465,Produto,,CONJUNTO DO FILTRO DE COMB. MOTOR YANMAR,conjunto-do-filtro-de-comb-motor-yanmar,publish,FILTROS,,,,,,,,,,,,,,,,,CONJUNTO DO FILTRO DE COMB. MOTOR YANMAR,2020-11-12 17:44:06
+5467,Produto,,CALCO DA  ARTICULAÇAO 936,calco-da-articulacao-936,publish,JUNTAS E CALÇOS,,,,,,,,,,,,,,,,,CALCO DA  ARTICULAÇAO 936,2020-11-12 17:44:10
+5469,Produto,,"TAMBOR DE FREIO FD35 T CENTRO 17,5",tambor-de-freio-fd35-t-centro-175,publish,SISTEMA DE FREIO,,,,,,,,,,,,,,,,,"TAMBOR DE FREIO FD35 T CENTRO 17,5",2020-11-12 17:44:12
+5471,Produto,,ENGRENAGEM DO DIFERENCIAL M35,engrenagem-do-diferencial-m35,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,ENGRENAGEM DO DIFERENCIAL M35,2020-11-12 17:44:14
+5473,Produto,,ENGRENAGEM DO DIFERENCIAL 2.5/3.5 FELIPADA,engrenagem-do-diferencial-2-5-3-5-felipada,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,ENGRENAGEM DO DIFERENCIAL 2.5/3.5 FELIPADA,2020-11-12 17:44:15
+5475,Produto,,POLIA DA TORRE M35T,polia-da-torre-m35t,publish,MOTOR,,,,,,,,,,,,,,,,,POLIA DA TORRE M35T,2020-11-12 17:44:19
+5477,Produto,,POLIA MOTOR,polia-motor,publish,MOTOR,,,,,,,,,,,,,,,,,POLIA MOTOR,2020-11-12 17:44:21
+5479,Produto,,VISOR OLEO HIDRAULICO DEGONG/CHANGLIN,visor-oleo-hidraulico-degong-changlin,publish,USO GERAL,,,,,,,,,,,,,,,,,VISOR OLEO HIDRAULICO DEGONG/CHANGLIN,2020-11-12 17:44:29
+5481,Produto,,HELICE VENTILADOR  MOTOR MITSUBISHI 4G64.,helice-ventilador-motor-mitsubishi-4g64,publish,MOTOR,,,,,,,,,,,,,,,,,HELICE VENTILADOR  MOTOR MITSUBISHI 4G64.,2020-11-12 17:44:31
+5483,Produto,,MANGUEIRA RETORNO BOMBA DAGUA VALVULA TERMOSTATICA,mangueira-retorno-bomba-dagua-valvula-termostatica,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,MANGUEIRA RETORNO BOMBA DAGUA VALVULA TERMOSTATICA,2020-11-12 17:44:32
+5485,Produto,,JUNTA DA SELETORA ZF,junta-da-seletora-zf,publish,MOTOR,,,,,,,,,,,,,,,,,JUNTA DA SELETORA ZF,2020-11-12 17:44:36
+5487,Produto,,SOLENOIDE TRANS. C/2 ANEIS,solenoide-trans-c-2-aneis,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,SOLENOIDE TRANS. C/2 ANEIS,2020-11-12 17:44:40
+5489,Produto,,RETENTOR CUBO RADO EMP. HANHICHA 30TON,retentor-cubo-rado-emp-hanhicha-30ton,publish,RETENTORES,,,,,,,,,,,,,,,,,RETENTOR CUBO RADO EMP. HANHICHA 30TON,2020-11-12 17:44:42
+5491,Produto,,MOLA DO PACOTE TRASM DEGONG,mola-do-pacote-trasm-degong,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,MOLA DO PACOTE TRASM DEGONG,2020-11-12 17:44:44
+5493,Produto,,HELICE 7 PAS - 110MM - 27MM FURO MOTOR XINCHAI,helice-7-pas-110mm-27mm-furo-motor-xinchai,publish,MOTOR,,,,,,,,,,,,,,,,,HELICE 7 PAS - 110MM - 27MM FURO MOTOR XINCHAI,2020-11-12 17:44:45
+5495,Produto,,ROTULA                                                GE30ES,rotula-ge30es,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROTULA                                                GE30ES,2020-11-12 17:44:51
+5497,Produto,,PLACA TRAVA,placa-trava,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,PLACA TRAVA,2020-11-12 17:44:55
+5499,Produto,,CONTATORA MAXIMAL M16 ETLA60MP4 SW200 48V,contatora-maximal-m16-etla60mp4-sw200-48v,publish,SISTEMA ELÉTRICO,,,,,,,,,,,,,,,,,CONTATORA MAXIMAL M16 ETLA60MP4 SW200 48V,2020-11-12 17:44:57
+5501,Produto,,TERMOSTATO,termostato,publish,SISTEMA ELÉTRICO,,,,,,,,,,,,,,,,,TERMOSTATO,2020-11-12 17:44:59
+5503,Produto,,REDUTOR GLP MODELO F1000,redutor-glp-modelo-f1000,publish,MOTOR,,,,,,,,,,,,,,,,,REDUTOR GLP MODELO F1000,2020-11-12 17:45:01
+5505,Produto,,ARRUELA DIFERENCIAL GRANDE DEGONG DG938,arruela-diferencial-grande-degong-dg938,publish,"PORCAS E PARAFUSOS | ARRUELAS, PORCAS E PARAFUSOS",,,,,,,,,,,,,,,,,ARRUELA DIFERENCIAL GRANDE DEGONG DG938,2020-11-12 17:45:05
+5507,Produto,,RETENTOR DO CUBO M16,retentor-do-cubo-m16,publish,RETENTORES,,,,,,,,,,,,,,,,,RETENTOR DO CUBO M16,2020-11-12 17:45:07
+5509,Produto,,ROLAMENTO DO DIFERENCIAL M16,rolamento-do-diferencial-m16,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO DO DIFERENCIAL M16,2020-11-12 17:45:08
+5511,Produto,,PLACA ACOPLAMENTO CONV AO MOTOR DG958 JG C/2 PCS,placa-acoplamento-conv-ao-motor-dg958-jg-c-2-pcs,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,PLACA ACOPLAMENTO CONV AO MOTOR DG958 JG C/2 PCS,2020-11-12 17:45:11
+5513,Produto,,FLANGE DO CONVERSOR 8 ESTRIA,flange-do-conversor-8-estria,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,FLANGE DO CONVERSOR 8 ESTRIA,2020-11-12 17:45:18
+5515,Produto,,LUVA ESTREADA BBA HIDR E DIRECAO 937H,luva-estreada-bba-hidr-e-direcao-937h,publish,SISTEMA HIDRÁULICO,,,,,,,,,,,,,,,,,LUVA ESTREADA BBA HIDR E DIRECAO 937H,2020-11-12 17:45:20
+5517,Produto,,PLACA DA TRANSMISSAO DG958 6WG,placa-da-transmissao-dg958-6wg,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,PLACA DA TRANSMISSAO DG958 6WG,2020-11-12 17:45:22
+5519,Produto,,PLACA DA TRANSMISSAO DG958 6WG,placa-da-transmissao-dg958-6wg-2,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,PLACA DA TRANSMISSAO DG958 6WG,2020-11-12 17:45:23
+5521,Produto,,PLACA TRANSMISSAO QUADRADA DG958 6WG,placa-transmissao-quadrada-dg958-6wg,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,PLACA TRANSMISSAO QUADRADA DG958 6WG,2020-11-12 17:45:27
+5523,Produto,,ELEMENTO BOMBA INJ DEGONG,elemento-bomba-inj-degong,publish,MOTOR,,,,,,,,,,,,,,,,,ELEMENTO BOMBA INJ DEGONG,2020-11-12 17:45:30
+5525,Produto,,ENGRENAGEM PLANETARIA,engrenagem-planetaria-3,publish,DIFERENCIAL,,,,,,,,,,,,,,,,,ENGRENAGEM PLANETARIA,2020-11-12 17:45:32
+5527,Produto,,ACOPLAMENTO DA BOMBA INJETORA 932III VER ALTERNATIVOS,acoplamento-da-bomba-injetora-932iii-ver-alternativos,publish,MOTOR,,,,,,,,,,,,,,,,,ACOPLAMENTO DA BOMBA INJETORA 932III VER ALTERNATIVOS,2020-11-12 17:45:34
+5529,Produto,,PORCA EIXO RODA XGMA 932III,porca-eixo-roda-xgma-932iii,publish,"PORCAS E PARAFUSOS | ARRUELAS, PORCAS E PARAFUSOS",,,,,,,,,,,,,,,,,PORCA EIXO RODA XGMA 932III,2020-11-12 17:45:36
+5531,Produto,,CRUZETA DIF XGMA,cruzeta-dif-xgma,publish,DIFERENCIAL,,,,,,,,,,,,,,,,,CRUZETA DIF XGMA,2020-11-12 17:45:37
+5533,Produto,,RETENTOR DE BORRACHA 60X42X9 HID. EMP.,retentor-de-borracha-60x42x9-hid-emp,publish,RETENTORES,,,,,,,,,,,,,,,,,RETENTOR DE BORRACHA 60X42X9 HID. EMP.,2020-11-12 17:45:40
+5535,Produto,,SOLENOIDE C/4 ANEIS,solenoide-c-4-aneis,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,SOLENOIDE C/4 ANEIS,2020-11-12 17:45:43
+5537,Produto,,FILTRO AR EXTERNO XCMG ZL30H,filtro-ar-externo-xcmg-zl30h,publish,FILTROS,,,,,,,,,,,,,,,,,FILTRO AR EXTERNO XCMG ZL30H,2020-11-12 17:45:44
+5539,Produto,,JUNTA,junta-2,publish,MOTOR,,,,,,,,,,,,,,,,,JUNTA,2020-11-12 17:45:47
+5543,Produto,,KIT DA MANGA EIXO  EMP. HANGCHA,kit-da-manga-eixo-emp-hangcha,publish,USO GERAL,,,,,,,,,,,,,,,,,KIT DA MANGA EIXO  EMP. HANGCHA,2020-11-12 17:45:57
+5545,Produto,,GAXETA,gaxeta,publish,RETENTORES,,,,,,,,,,,,,,,,,GAXETA,2020-11-12 17:45:59
+5547,Produto,,TAMPA,tampa-2,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,TAMPA,2020-11-12 17:46:00
+5549,Produto,,FAROL DE MILHA XCMG,farol-de-milha-xcmg,publish,SISTEMA ELÉTRICO,,,,,,,,,,,,,,,,,FAROL DE MILHA XCMG,2020-11-12 17:46:02
+5551,Produto,,FILTRO TRANSMISSAO 958/918,filtro-transmissao-958-918,publish,FILTROS,,,,,,,,,,,,,,,,,FILTRO TRANSMISSAO 958/918,2020-11-12 17:46:04
+5553,Produto,,ROLAMENTO 32019,rolamento-32019,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO 32019,2020-11-12 17:46:07
+5555,Produto,,ROLAMENTO TANDEM XG31802  33022,rolamento-tandem-xg31802-33022,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO TANDEM XG31802  33022,2020-11-12 17:46:09
+5557,Produto,,ENGRENAGEM,engrenagem-12,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,ENGRENAGEM,2020-11-12 17:46:11
+5559,Produto,,TAMPA,tampa-3,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,TAMPA,2020-11-12 17:46:13
+5561,Produto,,TUBO DA BBA AGUA 932,tubo-da-bba-agua-932,publish,MOTOR,,,,,,,,,,,,,,,,,TUBO DA BBA AGUA 932,2020-11-12 17:46:14
+5563,Produto,,TUBO FREIO,tubo-freio,publish,FREIOS,,,,,,,,,,,,,,,,,TUBO FREIO,2020-11-12 17:46:16
+5565,Produto,,EIXO TRANSM,eixo-transm-2,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,EIXO TRANSM,2020-11-12 17:46:21
+5567,Produto,,CUBO ROLAMENTO,cubo-rolamento,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,CUBO ROLAMENTO,2020-11-12 17:46:24
+5569,Produto,,COXIM DA TRANSMISSAO XGMA 932III,coxim-da-transmissao-xgma-932iii,publish,USO GERAL,,,,,,,,,,,,,,,,,COXIM DA TRANSMISSAO XGMA 932III,2020-11-12 17:46:26
+5571,Produto,,MANGUEIRA TRASEIRA CIL DIR DEGONG,mangueira-traseira-cil-dir-degong,publish,SISTEMA HIDRÁULICO,,,,,,,,,,,,,,,,,MANGUEIRA TRASEIRA CIL DIR DEGONG,2020-11-12 17:46:27
+5573,Produto,,ROLAMENTO LATERAL DA TORRE 45X119X25,rolamento-lateral-da-torre-45x119x25,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO LATERAL DA TORRE 45X119X25,2020-11-12 17:46:29
+5575,Produto,,JUNTA TAMPA DE VALVULA CANELADA DE ENCAIXE MOTOR XINCHAI,junta-tampa-de-valvula-canelada-de-encaixe-motor-xinchai,publish,MOTOR,,,,,,,,,,,,,,,,,JUNTA TAMPA DE VALVULA CANELADA DE ENCAIXE MOTOR XINCHAI,2020-11-12 17:46:32
+5577,Produto,,ROLAMENTO,rolamento-23,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO,2020-11-12 17:46:34
+5579,Produto,,TUBO RETORNO BBA INJ 6BT5.9,tubo-retorno-bba-inj-6bt5-9,publish,MOTOR,,,,,,,,,,,,,,,,,TUBO RETORNO BBA INJ 6BT5.9,2020-11-12 17:46:36
+5581,Produto,,RETENTOR 100X130X12 DO CUBO DINTEIRO EMP. HAUHER,retentor-100x130x12-do-cubo-dinteiro-emp-hauher,publish,RETENTORES,,,,,,,,,,,,,,,,,RETENTOR 100X130X12 DO CUBO DINTEIRO EMP. HAUHER,2020-11-12 17:46:38
+5583,Produto,,MANGUEIRA PEDAL FREIO AO CIL FREIO TRASEIROI,mangueira-pedal-freio-ao-cil-freio-traseiroi,publish,FREIOS,,,,,,,,,,,,,,,,,MANGUEIRA PEDAL FREIO AO CIL FREIO TRASEIROI,2020-11-12 17:46:45
+5585,Produto,,JG BRONZINA DE MANCAL 0.50 MOTOR XINCHAI C490BPG/A490BPG,jg-bronzina-de-mancal-0-50-motor-xinchai-c490bpg-a490bpg,publish,MOTOR,,,,,,,,,,,,,,,,,JG BRONZINA DE MANCAL 0.50 MOTOR XINCHAI C490BPG/A490BPG,2020-11-12 17:46:48
+5587,Produto,,CARDAN DA TRANSMISSAO XCMG ZL30H,cardan-da-transmissao-xcmg-zl30h,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,CARDAN DA TRANSMISSAO XCMG ZL30H,2020-11-12 17:46:50
+5589,Produto,,LUVA DO CUBO ZL30H,luva-do-cubo-zl30h,publish,DIFERENCIAL,,,,,,,,,,,,,,,,,LUVA DO CUBO ZL30H,2020-11-12 17:46:52
+5591,Produto,,"CALÇO DA TRANSM BS428 0,05MM",calco-da-transm-bs428-005mm,publish,JUNTAS E CALÇOS,,,,,,,,,,,,,,,,,"CALÇO DA TRANSM BS428 0,05MM",2020-11-12 17:46:56
+5593,Produto,,SENSOR RADIADOR H55FT HYSTER,sensor-radiador-h55ft-hyster,publish,MOTOR,,,,,,,,,,,,,,,,,SENSOR RADIADOR H55FT HYSTER,2020-11-12 17:47:00
+5595,Produto,,CALÇO DA ARTICULAÇAO FOTON FL936,calco-da-articulacao-foton-fl936,publish,JUNTAS E CALÇOS,,,,,,,,,,,,,,,,,CALÇO DA ARTICULAÇAO FOTON FL936,2020-11-12 17:47:02
+5597,Produto,,TAMPA DO MANCAL ART FOTON FL936,tampa-do-mancal-art-foton-fl936,publish,JUNTAS E CALÇOS,,,,,,,,,,,,,,,,,TAMPA DO MANCAL ART FOTON FL936,2020-11-12 17:47:04
+5599,Produto,,LUVA INTERMEDIARIA ART FOTON FL936,luva-intermediaria-art-foton-fl936,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,LUVA INTERMEDIARIA ART FOTON FL936,2020-11-12 17:47:05
+5601,Produto,,FILTRO DE AR EXTERNO EMP. CLX-25 STILL,filtro-de-ar-externo-emp-clx-25-still,publish,FILTROS,,,,,,,,,,,,,,,,,FILTRO DE AR EXTERNO EMP. CLX-25 STILL,2020-11-12 17:47:08
+5603,Produto,,RETENTOR,retentor,publish,RETENTORES,,,,,,,,,,,,,,,,,RETENTOR,2020-11-12 17:47:12
+5605,Produto,,ANEL VED PINÇA 835,anel-ved-pinca-835,publish,USO GERAL,,,,,,,,,,,,,,,,,ANEL VED PINÇA 835,2020-11-12 17:47:16
+5607,Produto,,CARCACA PINÇA FREIO 835 SO CARCACA,carcaca-pinca-freio-835-so-carcaca,publish,FREIOS,,,,,,,,,,,,,,,,,CARCACA PINÇA FREIO 835 SO CARCACA,2020-11-12 17:47:20
+5609,Produto,,CONEXAO TEE CANOS FREIOS DEGONG,conexao-tee-canos-freios-degong,publish,FREIOS,,,,,,,,,,,,,,,,,CONEXAO TEE CANOS FREIOS DEGONG,2020-11-12 17:47:22
+5611,Produto,,CANO DE LUBRICAÇÃO DAS ENGRENAGENS MOTOR XINCHAI,cano-de-lubricacao-das-engrenagens-motor-xinchai,publish,MOTOR,,,,,,,,,,,,,,,,,CANO DE LUBRICAÇÃO DAS ENGRENAGENS MOTOR XINCHAI,2020-11-12 17:47:25
+5613,Produto,,VARETA DO NIVEL DE OLEO HID. EMP. MAXIMAL,vareta-do-nivel-de-oleo-hid-emp-maximal,publish,MOTOR,,,,,,,,,,,,,,,,,VARETA DO NIVEL DE OLEO HID. EMP. MAXIMAL,2020-11-12 17:47:27
+5615,Produto,,BUJAO 50 PARA BLOCO MOTOR,bujao-50-para-bloco-motor,publish,MOTOR,,,,,,,,,,,,,,,,,BUJAO 50 PARA BLOCO MOTOR,2020-11-12 17:47:28
+5617,Produto,,MANGUEIRA RETORNO A´GUA VALVULA TERMOST. MOTOR XINCHAI,mangueira-retorno-agua-valvula-termost-motor-xinchai,publish,MOTOR,,,,,,,,,,,,,,,,,MANGUEIRA RETORNO A´GUA VALVULA TERMOST. MOTOR XINCHAI,2020-11-12 17:47:30
+5619,Produto,,MINI ALAVANCA DE CONTROLE DIRECIONAL HYSTER HFT,mini-alavanca-de-controle-direcional-hyster-hft,publish,USO GERAL,,,,,,,,,,,,,,,,,MINI ALAVANCA DE CONTROLE DIRECIONAL HYSTER HFT,2020-11-12 17:47:31
+5621,Produto,,CALCO DO MANCAL TORRE HANGCHA,calco-do-mancal-torre-hangcha,publish,JUNTAS E CALÇOS,,,,,,,,,,,,,,,,,CALCO DO MANCAL TORRE HANGCHA,2020-11-12 17:47:35
+5623,Produto,,RETENTOR MANGA DE EIXO,retentor-manga-de-eixo,publish,RETENTORES,,,,,,,,,,,,,,,,,RETENTOR MANGA DE EIXO,2020-11-12 17:47:37
+5625,Produto,,PINO DA MANGA DE EIXO MAXIMAL,pino-da-manga-de-eixo-maximal,publish,USO GERAL,,,,,,,,,,,,,,,,,PINO DA MANGA DE EIXO MAXIMAL,2020-11-12 17:47:39
+5627,Produto,,CALÇO,calco-5,publish,JUNTAS E CALÇOS,,,,,,,,,,,,,,,,,CALÇO,2020-11-12 17:47:42
+5629,Produto,,PINO DA ALGEMA,pino-da-algema,publish,USO GERAL,,,,,,,,,,,,,,,,,PINO DA ALGEMA,2020-11-12 17:47:45
+5631,Produto,,ALGEMA EIXO  DIREÇÃO  EMP. MAXIMAL/HELLI 2.0-3.5 TONELADAS,algema-eixo-direcao-emp-maximal-helli-2-0-3-5-toneladas,publish,USO GERAL,,,,,,,,,,,,,,,,,ALGEMA EIXO  DIREÇÃO  EMP. MAXIMAL/HELLI 2.0-3.5 TONELADAS,2020-11-12 17:47:46
+5633,Produto,,ROTULA,rotula,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROTULA,2020-11-12 17:47:49
+5635,Produto,,SUPORTE FILTRO DE COMBUSTIVEL,suporte-filtro-de-combustivel,publish,FILTROS,,,,,,,,,,,,,,,,,SUPORTE FILTRO DE COMBUSTIVEL,2020-11-12 17:47:52
+5637,Produto,,"BUJAO EXPANSAO  58,06MM",bujao-expansao-5806mm,publish,MOTOR,,,,,,,,,,,,,,,,,"BUJAO EXPANSAO  58,06MM",2020-11-12 17:47:54
+5639,Produto,,FILTRO DE AR EXTERNO EMP. HYSTER,filtro-de-ar-externo-emp-hyster,publish,FILTROS,,,,,,,,,,,,,,,,,FILTRO DE AR EXTERNO EMP. HYSTER,2020-11-12 17:47:57
+5641,Produto,,PORCA PONTA EIXO,porca-ponta-eixo,publish,"ARRUELAS, PORCAS E PARAFUSOS | PORCAS E PARAFUSOS",,,,,,,,,,,,,,,,,PORCA PONTA EIXO,2020-11-12 17:47:59
+5643,Produto,,FLEXIVEL ESCAPAMENTO,flexivel-escapamento,publish,MOTOR,,,,,,,,,,,,,,,,,FLEXIVEL ESCAPAMENTO,2020-11-12 17:48:02
+5645,Produto,,FILTRO AR CONDICIONADO DG 938,filtro-ar-condicionado-dg-938,publish,FILTROS,,,,,,,,,,,,,,,,,FILTRO AR CONDICIONADO DG 938,2020-11-12 17:48:03
+5647,Produto,,CORREIA 17X1000LI,correia-17x1000li,publish,MOTOR,,,,,,,,,,,,,,,,,CORREIA 17X1000LI,2020-11-12 17:48:05
+5649,Produto,,CORREIA ALTERNADOR MOTOR XINCHAI,correia-alternador-motor-xinchai,publish,MOTOR,,,,,,,,,,,,,,,,,CORREIA ALTERNADOR MOTOR XINCHAI,2020-11-12 17:48:07
+5651,Produto,,POLIA DA VENTOINHA XINCHAI 498BT/BPG,polia-da-ventoinha-xinchai-498bt-bpg,publish,MOTOR,,,,,,,,,,,,,,,,,POLIA DA VENTOINHA XINCHAI 498BT/BPG,2020-11-12 17:48:09
+5653,Produto,,FILTRO DE AR INTERNO EMP.CLX-25 STILL,filtro-de-ar-interno-emp-clx-25-still,publish,FILTROS,,,,,,,,,,,,,,,,,FILTRO DE AR INTERNO EMP.CLX-25 STILL,2020-11-12 17:48:12
+5655,Produto,,JUNTA CABEÇOTE MOTOR XINCHAI 498,junta-cabecote-motor-xinchai-498,publish,MOTOR,,,,,,,,,,,,,,,,,JUNTA CABEÇOTE MOTOR XINCHAI 498,2020-11-12 17:48:16
+5657,Produto,,RETENTOR DO CUBO DIANTEIRO MAXIMAL,retentor-do-cubo-dianteiro-maximal,publish,RETENTORES,,,,,,,,,,,,,,,,,RETENTOR DO CUBO DIANTEIRO MAXIMAL,2020-11-12 17:48:18
+5659,Produto,,VALVULA  ADMISSÃO XINCHAI 498,valvula-admissao-xinchai-498,publish,MOTOR,,,,,,,,,,,,,,,,,VALVULA  ADMISSÃO XINCHAI 498,2020-11-12 17:48:19
+5661,Produto,,VALVULA DE ESCAPE 8X36X125 MOTOR XINCHAI C495BPG/498BPG/4D35,valvula-de-escape-8x36x125-motor-xinchai-c495bpg-498bpg-4d35,publish,MOTOR,,,,,,,,,,,,,,,,,VALVULA DE ESCAPE 8X36X125 MOTOR XINCHAI C495BPG/498BPG/4D35,2020-11-12 17:48:22
+5663,Produto,,CORREIA,correia,publish,MOTOR,,,,,,,,,,,,,,,,,CORREIA,2020-11-12 17:48:24
+5665,Produto,,BUCHA DO COMANDO MOTOR YANMAR 4TNE98,bucha-do-comando-motor-yanmar-4tne98,publish,MOTOR,,,,,,,,,,,,,,,,,BUCHA DO COMANDO MOTOR YANMAR 4TNE98,2020-11-12 17:48:25
+5667,Produto,,RETENTOR CUBO RODA DIANTEIRA,retentor-cubo-roda-dianteira,publish,RETENTORES,,,,,,,,,,,,,,,,,RETENTOR CUBO RODA DIANTEIRA,2020-11-12 17:48:27
+5669,Produto,,KIT TIRANTE FREIO,kit-tirante-freio,publish,SISTEMA DE FREIO,,,,,,,,,,,,,,,,,KIT TIRANTE FREIO,2020-11-12 17:48:29
+5671,Produto,,HELICE 10 PÁS PLASTICO MAXIMAL,helice-10-pas-plastico-maximal,publish,MOTOR,,,,,,,,,,,,,,,,,HELICE 10 PÁS PLASTICO MAXIMAL,2020-11-12 17:48:34
+5673,Produto,,ANEL DE ENCOSTO ROTULA OSCILANTE,anel-de-encosto-rotula-oscilante,publish,USO GERAL,,,,,,,,,,,,,,,,,ANEL DE ENCOSTO ROTULA OSCILANTE,2020-11-12 17:48:36
+5675,Produto,,PINO 20MM  DO ARTICULADOR HANGCHA,pino-20mm-do-articulador-hangcha,publish,USO GERAL,,,,,,,,,,,,,,,,,PINO 20MM  DO ARTICULADOR HANGCHA,2020-11-12 17:48:39
+5677,Produto,,SUPORTE DO CONJUNTO DO MOTOR 4G63/64,suporte-do-conjunto-do-motor-4g63-64,publish,USO GERAL,,,,,,,,,,,,,,,,,SUPORTE DO CONJUNTO DO MOTOR 4G63/64,2020-11-12 17:48:40
+5679,Produto,,RETENTOR TRANSM.MAXIMAL  M25,retentor-transm-maximal-m25,publish,RETENTORES,,,,,,,,,,,,,,,,,RETENTOR TRANSM.MAXIMAL  M25,2020-11-12 17:48:42
+5681,Produto,,PINO PISTÃO MOTOR XINCHAI 498,pino-pistao-motor-xinchai-498,publish,MOTOR,,,,,,,,,,,,,,,,,PINO PISTÃO MOTOR XINCHAI 498,2020-11-12 17:48:46
+5683,Produto,,CONVERSOR TORQUE 958 REMANUFATURADO,conversor-torque-958-remanufaturado,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,CONVERSOR TORQUE 958 REMANUFATURADO,2020-11-12 17:48:47
+5685,Produto,,RETENTOR 40X62X10,retentor-40x62x10,publish,RETENTORES,,,,,,,,,,,,,,,,,RETENTOR 40X62X10,2020-11-12 17:48:49
+5687,Produto,,CORRENTE DA BOMBA HIDRAULICA MOTOR NISSAN K25/21,corrente-da-bomba-hidraulica-motor-nissan-k25-21,publish,MOTOR,,,,,,,,,,,,,,,,,CORRENTE DA BOMBA HIDRAULICA MOTOR NISSAN K25/21,2020-11-12 17:48:51
+5689,Produto,,CRUZETA DA CAIXA SATELITE,cruzeta-da-caixa-satelite,publish,DIFERENCIAL,,,,,,,,,,,,,,,,,CRUZETA DA CAIXA SATELITE,2020-11-12 17:48:53
+5691,Produto,,ENGRENAGEM LATERAL CX SATELITE,engrenagem-lateral-cx-satelite,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,ENGRENAGEM LATERAL CX SATELITE,2020-11-12 17:48:54
+5693,Produto,,ENGRENAGEM PLANETARIA CX SATELITE,engrenagem-planetaria-cx-satelite,publish,DIFERENCIAL,,,,,,,,,,,,,,,,,ENGRENAGEM PLANETARIA CX SATELITE,2020-11-12 17:48:56
+5695,Produto,,BOMBA HIDR. MOTOR 4G64/63 ANT-HORARIO 13 ESTRIAS,bomba-hidr-motor-4g64-63-ant-horario-13-estrias,publish,SISTEMA HIDRÁULICO,,,,,,,,,,,,,,,,,BOMBA HIDR. MOTOR 4G64/63 ANT-HORARIO 13 ESTRIAS,2020-11-12 17:48:58
+5697,Produto,,REGULADOR DE VOLTAGEM,regulador-de-voltagem,publish,SISTEMA ELÉTRICO,,,,,,,,,,,,,,,,,REGULADOR DE VOLTAGEM,2020-11-12 17:49:00
+5699,Produto,,MOTOR DE PARTIDA MOTOR NISSAN K21/25,motor-de-partida-motor-nissan-k21-25,publish,MOTOR,,,,,,,,,,,,,,,,,MOTOR DE PARTIDA MOTOR NISSAN K21/25,2020-11-12 17:49:03
+5701,Produto,,CORREIA DO ALTERNADOR MOTOR NISSAN K25/21,correia-do-alternador-motor-nissan-k25-21,publish,MOTOR,,,,,,,,,,,,,,,,,CORREIA DO ALTERNADOR MOTOR NISSAN K25/21,2020-11-12 17:49:07
+5703,Produto,,SENSOR PRESSAO OLEO,sensor-pressao-oleo,publish,MOTOR,,,,,,,,,,,,,,,,,SENSOR PRESSAO OLEO,2020-11-12 17:49:09
+5705,Produto,,MANGUEIRA SUP. RADIADOR MOTOR XINCHAI,mangueira-sup-radiador-motor-xinchai,publish,MOTOR,,,,,,,,,,,,,,,,,MANGUEIRA SUP. RADIADOR MOTOR XINCHAI,2020-11-12 17:49:11
+5707,Produto,,MANGUEIRA INF. RADIADOR MOTOR XINCHAI,mangueira-inf-radiador-motor-xinchai,publish,MOTOR,,,,,,,,,,,,,,,,,MANGUEIRA INF. RADIADOR MOTOR XINCHAI,2020-11-12 17:49:13
+5709,Produto,,EIXO RODA 937H LD,eixo-roda-937h-ld,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,EIXO RODA 937H LD,2020-11-12 17:49:14
+5711,Produto,,RELOGIO TEMPERATURA D'AGUA MAXIMAL,relogio-temperatura-dagua-maximal,publish,USO GERAL,,,,,,,,,,,,,,,,,RELOGIO TEMPERATURA D'AGUA MAXIMAL,2020-11-12 17:49:18
+5713,Produto,,SENSOR INTERRUPTOR  PRESSAO  HYUNDAI 210LC,sensor-interruptor-pressao-hyundai-210lc,publish,MOTOR,,82688,,,NULL,instock,,0,0,0,,no,no,0,0,,SENSOR INTERRUPTOR  PRESSAO  HYUNDAI 210LC,2020-11-12 17:49:21
+5715,Produto,,MANGUEIRA INF. RADIADOR EMP. YALE,mangueira-inf-radiador-emp-yale,publish,MOTOR,,,,,,,,,,,,,,,,,MANGUEIRA INF. RADIADOR EMP. YALE,2020-11-12 17:49:25
+5717,Produto,,FILTRO HIDR DEGONG 938 44 CENTIMETROS MODERNA,filtro-hidr-degong-938-44-centimetros-moderna,publish,FILTROS,,,,,,,,,,,,,,,,,FILTRO HIDR DEGONG 938 44 CENTIMETROS MODERNA,2020-11-12 17:49:26
+5719,Produto,,PAINEL INFERIOR PROTEÇAO H55FT,painel-inferior-protecao-h55ft,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,PAINEL INFERIOR PROTEÇAO H55FT,2020-11-12 17:49:28
+5721,Produto,,GIROFLEX SINALIZADOR MAGNETICO,giroflex-sinalizador-magnetico,publish,SISTEMA ELÉTRICO,,,,,,,,,,,,,,,,,GIROFLEX SINALIZADOR MAGNETICO,2020-11-12 17:49:30
+5723,Produto,,BOMBA D AGUA MOTOR XINCHAI A490BPG / C490BPG,bomba-d-agua-motor-xinchai-a490bpg-c490bpg,publish,MOTOR,,,,,,,,,,,,,,,,,BOMBA D AGUA MOTOR XINCHAI A490BPG / C490BPG,2020-11-12 17:49:32
+5725,Produto,,FILTRO DE AR EMP. CLARK CQ230L,filtro-de-ar-emp-clark-cq230l,publish,FILTROS,,,,,,,,,,,,,,,,,FILTRO DE AR EMP. CLARK CQ230L,2020-11-12 17:49:33
+5727,Produto,,CORREIA DENTADA  VENTILADOR DO MOTOR 4G64/4G63/ 01.406,correia-dentada-ventilador-do-motor-4g64-4g63-01-406,publish,MOTOR,,,,,,,,,,,,,,,,,CORREIA DENTADA  VENTILADOR DO MOTOR 4G64/4G63/ 01.406,2020-11-12 17:49:35
+5729,Produto,,COXIM CABINE ROLO XGMA 612H,coxim-cabine-rolo-xgma-612h,publish,USO GERAL,,,,,,,,,,,,,,,,,COXIM CABINE ROLO XGMA 612H,2020-11-12 17:49:37
+5731,Produto,,POLIA DO VIRABREQUIM MOTOR XINCHAI A498BT1V,polia-do-virabrequim-motor-xinchai-a498bt1v,publish,MOTOR,,,,,,,,,,,,,,,,,POLIA DO VIRABREQUIM MOTOR XINCHAI A498BT1V,2020-11-12 17:49:40
+5733,Produto,,CILINDRO DE RODA MAX. M40,cilindro-de-roda-max-m40,publish,SISTEMA DE FREIO,,,,,,,,,,,,,,,,,CILINDRO DE RODA MAX. M40,2020-11-12 17:49:42
+5735,Produto,,FILTRO DE AR SDLG L936,filtro-de-ar-sdlg-l936,publish,FILTROS,,,,,,,,,,,,,,,,,FILTRO DE AR SDLG L936,2020-11-12 17:49:51
+5737,Produto,,TRAVA DE  VALVULA MOTOR XINCHAI 498BPG,trava-de-valvula-motor-xinchai-498bpg,publish,MOTOR,,,,,,,,,,,,,,,,,TRAVA DE  VALVULA MOTOR XINCHAI 498BPG,2020-11-12 17:49:54
+5739,Produto,,CONECTOR T DO REGULADOR FLUXO OLEO HID. TORRE 3 - STAGE,conector-t-do-regulador-fluxo-oleo-hid-torre-3-stage,publish,USO GERAL,,,,,,,,,,,,,,,,,CONECTOR T DO REGULADOR FLUXO OLEO HID. TORRE 3 - STAGE,2020-11-12 17:49:56
+5741,Produto,,ROLAMENTO,rolamento-24,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO,2020-11-12 17:50:02
+5743,Produto,,CAIXA C/ 2 ALAVANCAS DA SHANTUI SW30,caixa-c-2-alavancas-da-shantui-sw30,publish,SISTEMA ELÉTRICO,,,,,,,,,,,,,,,,,CAIXA C/ 2 ALAVANCAS DA SHANTUI SW30,2020-11-12 17:50:05
+5745,Produto,,"VALVULA DE ESCAPE 8X35X125,1 MOTOR XINCHAI C490BPG",valvula-de-escape-8x35x1251-motor-xinchai-c490bpg,publish,MOTOR,,,,,,,,,,,,,,,,,"VALVULA DE ESCAPE 8X35X125,1 MOTOR XINCHAI C490BPG",2020-11-12 17:50:07
+5747,Produto,,VALVULA DE ADMISSAO 8X41X125 MOTOR XINCHAI C490BPG,valvula-de-admissao-8x41x125-motor-xinchai-c490bpg,publish,MOTOR,,,,,,,,,,,,,,,,,VALVULA DE ADMISSAO 8X41X125 MOTOR XINCHAI C490BPG,2020-11-12 17:50:10
+5749,Produto,,CONVERSOR TORQUE HYSTER XM REMANUFATURADA,conversor-torque-hyster-xm-remanufaturada,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,CONVERSOR TORQUE HYSTER XM REMANUFATURADA,2020-11-12 17:50:12
+5751,Produto,,POLIA 120MM MOTOR XINCHAI 498 BPG /498 BT,polia-120mm-motor-xinchai-498-bpg-498-bt,publish,MOTOR,,,,,,,,,,,,,,,,,POLIA 120MM MOTOR XINCHAI 498 BPG /498 BT,2020-11-12 17:50:15
+5753,Produto,,CONJUNTO DE CRUZETA DO CARDAN,conjunto-de-cruzeta-do-cardan,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,CONJUNTO DE CRUZETA DO CARDAN,2020-11-12 17:50:17
+5755,Produto,,FILTRO LUBRIFICANTE,filtro-lubrificante,publish,FILTROS,,,,,,,,,,,,,,,,,FILTRO LUBRIFICANTE,2020-11-12 17:50:18
+5757,Produto,,ANEL DE FERRO,anel-de-ferro,publish,USO GERAL,,,,,,,,,,,,,,,,,ANEL DE FERRO,2020-11-12 17:50:20
+5759,Produto,,ROLAMENTO,rolamento-25,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO,2020-11-12 17:50:22
+5761,Produto,,HÉLICE 9 PÁS DE FERRO EMPILHADEIRA COM MOTOR XINCHAI 498,helice-9-pas-de-ferro-empilhadeira-com-motor-xinchai-498,publish,MOTOR,,,,,,,,,,,,,,,,,HÉLICE 9 PÁS DE FERRO EMPILHADEIRA COM MOTOR XINCHAI 498,2020-11-12 17:50:24
+5763,Produto,,TENSOR FIXO CORREIA COMANDO VALVULAS MOTOR PSI 2.4 HYSTER,tensor-fixo-correia-comando-valvulas-motor-psi-2-4-hyster,publish,MOTOR,,,,,,,,,,,,,,,,,TENSOR FIXO CORREIA COMANDO VALVULAS MOTOR PSI 2.4 HYSTER,2020-11-12 17:50:26
+5765,Produto,,TENSOR MOVEL CORREIA COMANDO VALVULAS MOTOR PSI 2.4 HYSTER,tensor-movel-correia-comando-valvulas-motor-psi-2-4-hyster,publish,MOTOR,,275,,,NULL,instock,no,0,0,0,,no,no,0,0,0,TENSOR MOVEL CORREIA COMANDO VALVULAS MOTOR PSI 2.4 HYSTER,2020-11-12 17:50:29
+5767,Produto,,ROLAMENTO CUBO EMPILHADEIRA HANGCHA 2.0-3.0TON,rolamento-cubo-empilhadeira-hangcha-2-0-3-0ton,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO CUBO EMPILHADEIRA HANGCHA 2.0-3.0TON,2020-11-12 17:50:37
+5769,Produto,,TAMPA RESERVATÓRIO OLEO HIDRAULICO MAXIMAL 3.5 TODO TERRENO,tampa-reservatorio-oleo-hidraulico-maximal-3-5-todo-terreno,publish,MOTOR,,,,,,,,,,,,,,,,,TAMPA RESERVATÓRIO OLEO HIDRAULICO MAXIMAL 3.5 TODO TERRENO,2020-11-12 17:50:39
+5771,Produto,,MANGA DE EIXO LADO ESQUERDO  EMPILHADEIRA MAXIMAL,manga-de-eixo-lado-esquerdo-empilhadeira-maximal,publish,USO GERAL,,,,,,,,,,,,,,,,,MANGA DE EIXO LADO ESQUERDO  EMPILHADEIRA MAXIMAL,2020-11-12 17:50:41
+5773,Produto,,KIT ANEIS MOTOR GIRO HUNDAY 210LC-7,kit-aneis-motor-giro-hunday-210lc-7,publish,SISTEMA HIDRÁULICO,,,,,,,,,,,,,,,,,KIT ANEIS MOTOR GIRO HUNDAY 210LC-7,2020-11-12 17:50:43
+5775,Produto,,COROA E PINHÃO TRANSMISSÃO  YQX30 21X10,coroa-e-pinhao-transmissao-yqx30-21x10,publish,DIFERENCIAL,,,,,,,,,,,,,,,,,COROA E PINHÃO TRANSMISSÃO  YQX30 21X10,2020-11-12 17:50:46
+5777,Produto,,ROLAMENTO MAIOR CUBO DINT MAXIMAL,rolamento-maior-cubo-dint-maximal,publish,ROLAMENTOS,,,,,,,,,,,,,,,,,ROLAMENTO MAIOR CUBO DINT MAXIMAL,2020-11-12 17:50:52
+5779,Produto,,RADIADOR MOTOR NISSAN K21/25,radiador-motor-nissan-k21-25,publish,MOTOR,,,,,,,,,,,,,,,,,RADIADOR MOTOR NISSAN K21/25,2020-11-12 17:50:57
+5783,Produto,,"ENGRENAGEM DO VIRABREQUIM 22DENTES 40X71,2X24 MOTOR XINCHAI",engrenagem-do-virabrequim-22dentes-40x712x24-motor-xinchai,publish,MOTOR,,,,,,,,,,,,,,,,,"ENGRENAGEM DO VIRABREQUIM 22DENTES 40X71,2X24 MOTOR XINCHAI",2020-11-12 17:51:04
+5785,Produto,,VALVULA PROPORCIONAL TRANSMISSAO HYSTER H90FT,valvula-proporcional-transmissao-hyster-h90ft,publish,MOTOR,,,,,,,,,,,,,,,,,VALVULA PROPORCIONAL TRANSMISSAO HYSTER H90FT,2020-11-12 17:51:06
+5787,Produto,,JUNTA DAS TAMPAS CONVERSOR USA 3,junta-das-tampas-conversor-usa-3,publish,TRANSMISSÃO,,,,,,,,,,,,,,,,,JUNTA DAS TAMPAS CONVERSOR USA 3,2020-11-12 17:51:08
+5789,Produto,,BIELA MOTOR XINCHAI A498 BPG,biela-motor-xinchai-a498-bpg,publish,MOTOR,,,,,,,,,,,,,,,,,BIELA MOTOR XINCHAI A498 BPG,2020-11-12 17:51:12
+5791,Produto,,TRAVA PINHÃO DIFERENCIAL TRANSMISSÃO YQX,trava-pinhao-diferencial-transmissao-yqx,publish,DIFERENCIAL,,,,,,,,,,,,,,,,,TRAVA PINHÃO DIFERENCIAL TRANSMISSÃO YQX,2020-11-12 17:51:16
+5793,Produto,,"CALÇO MEIA LUA REGULAGEM PINHÃO 0,1MM  TRANSMISSÃO YQX",calco-meia-lua-regulagem-pinhao-01mm-transmissao-yqx,publish,JUNTAS E CALÇOS,,,,,,,,,,,,,,,,,"CALÇO MEIA LUA REGULAGEM PINHÃO 0,1MM  TRANSMISSÃO YQX",2020-11-12 17:51:19
+5795,Produto,,CALÇO MEIA LUA REGULAGEM 0.5MM  PINHÃO  TRANSMISSÃO YQX,calco-meia-lua-regulagem-0-5mm-pinhao-transmissao-yqx,publish,JUNTAS E CALÇOS,,,,,,,,,,,,,,,,,CALÇO MEIA LUA REGULAGEM 0.5MM  PINHÃO  TRANSMISSÃO YQX,2020-11-12 17:51:22
+5797,Produto,,CALÇO REGULAGEM 0.5MM PINHÃO TRANSMISSÃO YQX,calco-regulagem-0-5mm-pinhao-transmissao-yqx,publish,JUNTAS E CALÇOS,,,,,,,,,,,,,,,,,CALÇO REGULAGEM 0.5MM PINHÃO TRANSMISSÃO YQX,2020-11-12 17:51:25
+5799,Produto,,CALÇO REGULAGEM 0.1MM PINHÃO TRANSMISSÃO YQX,calco-regulagem-0-1mm-pinhao-transmissao-yqx,publish,JUNTAS E CALÇOS,,,,,,,,,,,,,,,,,CALÇO REGULAGEM 0.1MM PINHÃO TRANSMISSÃO YQX,2020-11-12 17:51:27
+5801,Produto,,DESLIZANTE DESLOCADOR LATERAL SUP. CARRINHO TORRE MAXIMAL,deslizante-deslocador-lateral-sup-carrinho-torre-maximal,publish,USO GERAL,,,,,,,,,,,,,,,,,DESLIZANTE DESLOCADOR LATERAL SUP. CARRINHO TORRE MAXIMAL,2020-11-12 17:51:29
+5803,Produto,,DESLIZANTE DESLOCADOR LATERAL INF. CARRINHO TORRE MAXIMAL,deslizante-deslocador-lateral-inf-carrinho-torre-maximal,publish,USO GERAL,,,,,,,,,,,,,,,,,DESLIZANTE DESLOCADOR LATERAL INF. CARRINHO TORRE MAXIMAL,2020-11-12 17:51:31
+5805,Produto,,FILTRO H55FT  MOTOR PSI,filtro-h55ft-motor-psi,publish,FILTROS,,,,,,,,,,,,,,,,,FILTRO H55FT  MOTOR PSI,2020-11-12 17:51:33
+5807,Produto,,LANTERNA SETA DIANTEIRA EMPILHADEIRA,lanterna-seta-dianteira-empilhadeira,publish,SISTEMA ELÉTRICO,,,,,,,,,,,,,,,,,LANTERNA SETA DIANTEIRA EMPILHADEIRA,2020-11-12 17:51:35
+5809,Produto,,SUSPIRO TANQUE OLEO HIDRAULICO MAXIMAL 2-4 TONELADAS,suspiro-tanque-oleo-hidraulico-maximal-2-4-toneladas,publish,MOTOR,,,,,,,,,,,,,,,,,SUSPIRO TANQUE OLEO HIDRAULICO MAXIMAL 2-4 TONELADAS,2020-11-12 17:51:38
+5811,Produto,,FILTRO AR CJ,filtro-ar-cj,publish,FILTROS,,,,,,,,,,,,,,,,,FILTRO AR CJ,2020-11-12 17:51:41
+5813,Produto,,COMANDO HIDRAULICO 3 VIAS COM RETORNO,comando-hidraulico-3-vias-com-retorno,publish,USO GERAL,,,,,,,,,,,,,,,,,COMANDO HIDRAULICO 3 VIAS COM RETORNO,2020-11-12 17:51:48
+5815,Produto,,PARAFUSO 12X115 LONGO MOTOR XINCHAI,parafuso-12x115-longo-motor-xinchai,publish,MOTOR,,,,,,,,,,,,,,,,,PARAFUSO 12X115 LONGO MOTOR XINCHAI,2020-11-12 17:51:55
+5817,Produto,,PARAFUSO 12X100 CURTO MOTOR XINCHAI,parafuso-12x100-curto-motor-xinchai,publish,MOTOR,,,,,,,,,,,,,,,,,PARAFUSO 12X100 CURTO MOTOR XINCHAI,2020-11-12 17:51:57
+5819,Produto,,CABO MOTOR DE PASSO,cabo-motor-de-passo,publish,MOTOR,,,,,,,,,,,,,,,,,CABO MOTOR DE PASSO,2020-11-12 17:51:58
+5821,Produto,,MOTOR DE PARTIDA,motor-de-partida,publish,MOTOR,,,,,,,,,,,,,,,,,MOTOR DE PARTIDA,2020-11-12 17:52:00
+5823,Produto,,PACOTE DA TRANSMISSÃO,pacote-da-transmissao,publish,EMPILHADEIRAS | TRANSMISSÃO,,,,,,,,,,,,,,,,,PACOTE DA TRANSMISSÃO,2020-11-12 18:03:34

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 70" width="260" height="70">
+  <defs>
+    <style>
+      .pix-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+    </style>
+  </defs>
+  <!-- Background Card -->
+  <rect x="1" y="1" width="258" height="68" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+  
+  <!-- Official Pix Symbol -->
+  <g transform="translate(16, 15)">
+    <!-- Pix Diamond Rhombus Elements -->
+    <path d="M 19.8 0 C 18.2 0 16.7 0.6 15.6 1.7 L 3.5 13.8 C 1.2 16.1 1.2 19.8 3.5 22.1 L 15.6 34.2 C 16.7 35.3 18.2 35.9 19.8 35.9 C 21.4 35.9 22.9 35.3 24 34.2 L 36.1 22.1 C 38.4 19.8 38.4 16.1 36.1 13.8 L 24 1.7 C 22.9 0.6 21.4 0 19.8 0 Z" fill="#32BCAD"/>
+    <path d="M 19.8 6.5 C 19 6.5 18.2 6.8 17.6 7.4 L 8.8 16.2 C 7.6 17.4 7.6 19.3 8.8 20.5 L 17.6 29.3 C 18.2 29.9 19 30.2 19.8 30.2 C 20.6 30.2 21.4 29.9 22 29.3 L 30.8 20.5 C 32 19.3 32 17.4 30.8 16.2 L 22 7.4 C 21.4 6.8 20.6 6.5 19.8 6.5 Z" fill="#ffffff"/>
+    <path d="M 19.8 11.2 C 19.4 11.2 19 11.4 18.7 11.7 L 13.4 17 C 12.8 17.6 12.8 18.6 13.4 19.2 L 18.7 24.5 C 19 24.8 19.4 25 19.8 25 C 20.2 25 20.6 24.8 20.9 24.5 L 26.2 19.2 C 26.8 18.6 26.8 17.6 26.2 17 L 20.9 11.7 C 20.6 11.4 20.2 11.2 19.8 11.2 Z" fill="#32BCAD"/>
+  </g>
+
+  <!-- Text: PIX + Depósito & Transferência -->
+  <text x="64" y="32" class="pix-text" font-size="20" font-weight="900" fill="#32BCAD" letter-spacing="-0.5">pix</text>
+  <text x="64" y="49" class="pix-text" font-size="10.5" font-weight="700" fill="#475569" letter-spacing="0.2">Depósito e Transferência</text>
+</svg>

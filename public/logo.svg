@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 115" width="100%" height="100%" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <!-- Gradiente sutil para o amarelo industrial -->
+    <linearGradient id="yellowBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FDB813" />
+      <stop offset="100%" stop-color="#F5A800" />
+    </linearGradient>
+    <linearGradient id="yellowSwoosh" x1="0%" y1="0%" x2="100%" y2="50%">
+      <stop offset="0%" stop-color="#FFDE43" />
+      <stop offset="100%" stop-color="#FDB813" />
+    </linearGradient>
+    <!-- Clip para manter bordas arredondadas externas perfeitas -->
+    <clipPath id="roundedFrame">
+      <rect x="0" y="0" width="540" height="115" rx="22" ry="22" />
+    </clipPath>
+  </defs>
+
+  <!-- Container principal com cantos arredondados -->
+  <g clip-path="url(#roundedFrame)">
+    <!-- 1. Fundo amarelo geral -->
+    <rect x="0" y="0" width="540" height="115" fill="url(#yellowBg)" />
+
+    <!-- 2. Bloco esquerdo escuro (preto/grafite da COM) -->
+    <path d="M 0 0 L 155 0 L 155 115 L 0 115 Z" fill="#131613" />
+
+    <!-- 3. Swoosh / Arco dinâmico amarelo superior sobre o emblema COM -->
+    <path d="M 68 12 C 105 13 136 30 148 48 C 142 34 116 20 84 19 C 50 18 24 32 17 58 C 11 80 20 95 48 98 C 30 96 11 86 12 60 C 13 32 36 12 68 12 Z" fill="url(#yellowSwoosh)" />
+    
+    <!-- Linha fina amarela na curva de base inferior -->
+    <path d="M 45 97 C 78 99 116 93 145 74 C 118 87 78 91 45 88 Z" fill="#FDB813" opacity="0.9" />
+
+    <!-- 4. Elemento aerodinâmico / Asa estilizada branca abaixo de COM -->
+    <!-- Camada de asas/penas dinâmicas -->
+    <path d="M 28 88 C 52 87 88 80 128 62 C 112 70 85 78 54 81 C 42 82 32 85 28 88 Z" fill="#FFFFFF" />
+    <path d="M 33 93 C 58 92 90 85 122 71 C 102 80 75 87 48 89 C 39 90 35 92 33 93 Z" fill="#FFFFFF" />
+    <path d="M 42 98 C 65 97 92 90 118 80 C 100 87 76 93 54 94 C 47 95 44 97 42 98 Z" fill="#FFFFFF" />
+
+    <!-- 5. Texto COM em display bold itálico com corte esportivo -->
+    <g transform="skewX(-14) translate(14, 0)">
+      <!-- Sombra/profundidade sutil do texto -->
+      <text x="62" y="69" 
+            font-family="system-ui, -apple-system, 'Arial Black', 'Impact', sans-serif" 
+            font-size="39" 
+            font-weight="900" 
+            font-style="italic" 
+            fill="#090B09" 
+            letter-spacing="-1px">COM</text>
+      <!-- Texto COM principal em branco puro -->
+      <text x="60" y="67" 
+            font-family="system-ui, -apple-system, 'Arial Black', 'Impact', sans-serif" 
+            font-size="39" 
+            font-weight="900" 
+            font-style="italic" 
+            fill="#FFFFFF" 
+            letter-spacing="-1px">COM</text>
+    </g>
+
+    <!-- 6. Textos do Lado Direito no Fundo Amarelo -->
+    <g fill="#0D0F11">
+      <!-- CENTRO OESTE em caixa alta, ultra bold, tracking expandido -->
+      <text x="345" y="55" 
+            font-family="system-ui, -apple-system, 'Montserrat', 'Arial Black', 'Helvetica Black', sans-serif" 
+            font-size="28" 
+            font-weight="900" 
+            letter-spacing="4px" 
+            text-anchor="middle">CENTRO OESTE</text>
+
+      <!-- MÁQUINAS E MANUTENÇÕES em caixa alta, negrito alinhado -->
+      <text x="345" y="86" 
+            font-family="system-ui, -apple-system, 'Montserrat', 'Arial', sans-serif" 
+            font-size="16.5" 
+            font-weight="700" 
+            letter-spacing="2.5px" 
+            text-anchor="middle">MÁQUINAS E MANUTENÇÕES</text>
+    </g>
+  </g>
+</svg>

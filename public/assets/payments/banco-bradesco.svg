@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 70" width="260" height="70">
+  <defs>
+    <style>
+      .brad-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+    </style>
+  </defs>
+  <!-- Background Card -->
+  <rect x="1" y="1" width="258" height="68" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+
+  <!-- Bradesco Red Emblem -->
+  <rect x="14" y="15" width="40" height="40" rx="6" fill="#CC092F"/>
+  <g transform="translate(19, 19) scale(0.68)">
+    <circle cx="22" cy="9" r="4" fill="#ffffff"/>
+    <rect x="20" y="15" width="4" height="23" rx="2" fill="#ffffff"/>
+    <!-- Outer Arcs -->
+    <path d="M 6 30 C 6 18 13 13 22 18" stroke="#ffffff" stroke-width="3" stroke-linecap="round" fill="none"/>
+    <path d="M 38 30 C 38 18 31 13 22 18" stroke="#ffffff" stroke-width="3" stroke-linecap="round" fill="none"/>
+    <!-- Inner Arcs -->
+    <path d="M 11 25 C 11 19 16 16 22 20" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+    <path d="M 33 25 C 33 19 28 16 22 20" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+    <!-- Base line -->
+    <path d="M 12 38 L 32 38" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <!-- Bradesco Corporate Typography -->
+  <text x="64" y="34" class="brad-text" font-size="19" font-weight="800" fill="#CC092F" letter-spacing="-0.5">bradesco</text>
+  <text x="64" y="49" class="brad-text" font-size="10.5" font-weight="700" fill="#64748b" letter-spacing="0.2">Depósito e Transferência</text>
+</svg>
